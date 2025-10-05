@@ -1,0 +1,15 @@
+Template: NONE
+CeilingDrips: 1
+WaveSpeed: 1
+WaveLength: 1
+WaveAmplitude: 1
+SecondWaveLength: 1
+SecondWaveAmplitude: 1
+Clouds: 1
+Grime: 0
+Palette: 1945
+Effects: ZeroG-0-112-105, SilenceWater-1-20-20, WaterDepth-0.0326087-258-46, 
+PlacedObjects: PlayerPushback><-593><315><1367~1, PlayerPushback><781><328><1367~1, PlayerPushback><1153><319><1367~1, PlayerPushback><2257><148><1367~1, PlayerPushback><3415><148><1367~1, PlayerPushback><3415><148><1367~1, PlayerPushback><3415><148><1367~1, PlayerPushback><4602><148><1367~1, PlayerPushback><4602><148><1367~1, PlayerPushback><4602><148><1367~1, PlayerPushback><5722><148><1367~1, PlayerPushback><5722><148><1367~1, PlayerPushback><5722><148><1367~1, PlayerPushback><5722><148><1367~1, PlayerPushback><6880><148><1367~1, PlayerPushback><6880><148><1367~1, PlayerPushback><6880><148><1367~1, PlayerPushback><6880><148><1367~1, PlayerPushback><6880><148><1367~1, PlayerPushback><7662><136><1063.703~207.2444, PlayerPushback><7636><153><926~95, PlayerPushback><7440><190><791~12, CGDrySpot><-237.3496><299.3161><100~50~9492.692^60.42224~True~None, CGCosmeticWater><3250.008><298.3029><1336^63, CGCosmeticWater><-211.196><298.0439><9470.814^173.9334, PlayerPushback><8802.171><251.1111><-72.28009~261.9778, PlayerPushback><8848.415><295.2><-95.04688~73.53336, PlayerPushback><596.257><469.4114><-2.845825~-98.39999, CGCosmeticWater><8932.096><369.2175><292.0938^269.9556, 
+AmbientSounds: OMNI><so_wat-openflow.ogg><724.0572><428.2736><1><0.4062367, OMNI><so_sfx-heartbeat1.ogg><688.169><216.1352><0.2885417><1.255346, OMNI><so_wat-splashes.ogg><506.0262><364.9985><1><0.1, OMNI><weird deep hole.wav><434.7001><251.3405><0.206137><1, SPOT><MSC-LowGroans.ogg><733.2137><305.9481><0.5><1><713.827><348.5259><-576.0636><-10.46646><0><0.1, SPOT><MSC-LowGroans.ogg><751.4364><170.8532><0.5><1><2748.673><283.831><-470.0564><2.333527><0><0.1, OMNI><so_ind-factorym.ogg><662.9495><503.0145><1><0.6478261, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>spectrum<eA>vol<eB>0.2845336<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>46.39932<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>1<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>266.5768<tB>372.9261<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>595.0362<tB>327.3261<tA>handlePos<tB>-35.35534<tB>-35.35534, 
+FadePalette: 22, 0.4407949, 0.4485281, 0.4717278, 0.5413271, 0.5181273, 0.4949274, 0.4562613, 0.4098619

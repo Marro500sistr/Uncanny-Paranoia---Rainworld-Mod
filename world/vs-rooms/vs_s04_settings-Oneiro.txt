@@ -1,0 +1,3 @@
+Grime: 0.2065217
+PlacedObjects: BrokenShelterWaterLevel><596.1018><309.4222><, Corruption><590.4657><322.0529><0~100, StuckDaddy><592.8259><328.5985><13~20, 
+FadePalette: 8, 0.4347826

@@ -1,0 +1,5 @@
+Template: VS_SettingsTemplate_Sewer
+Grime: 0.3586957
+EffectColorB: 6
+PlacedObjects: Corruption><274.3431><422.6241><7~108, StuckDaddy><274.7048><426.5552><11~46, 
+FadePalette: 8, 0.4673913

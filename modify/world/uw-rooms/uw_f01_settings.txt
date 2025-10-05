@@ -1,0 +1,15 @@
+[FIND]AboveCloudsView-1-25-12, 
+[REPLACE]
+[FIND]DayNight-0.8913044-281-13, 
+[REPLACE]
+[FIND]DayNightSettings><119.1974><4356.282><5~8.660254~3~33, 
+[REPLACE]
+[FIND]DevToken><989.421><4085.104><6~-42~0~0~0~~White|Yellow|Red|Artificer|Saint|Spear|Gourmand~0~0~0~1, 
+[REPLACE]
+[MERGE]
+Palette: 6
+FadePalette: 3, 0.6521739, 0.5652174, 0.4891304, 0.4456522, 0.4347826, 0.3586957
+RoomSpecificScriptActive: ON
+Effects: AboveCloudsView-1-610-167, Bloom-0.1413043-636-371, SkyAndLightBloom-0.06521739-607-460, Contrast-0.04347826-596-44, Desaturation-0.09782609-329-43, Darkness-0.1195652-330-165, DayNight-0.9782609-347-106, 
+PlacedObjects: LightSource><600.8377><2020.117><0.2608696~Environment~-636~-32~50~86.60254~1~1~None~0~0, LightSource><587.6917><987.6931><0.05434782~Environment~-623~59~50~86.60254~1~1~None~0~0, LightSource><97.69189><536.6937><0.1847826~Environment~-545~541~50~86.60254~1~1~None~0~0, DayNightSettings><682.3824><4221.838><5~8.660254~3~33, DevToken><989.421><4085.104><6~-42~0~0~0~~White|Yellow|Red|Artificer|Saint|Spear|Gourmand~0~0~0~1~0~0~0~1, 
+[ENDMERGE]

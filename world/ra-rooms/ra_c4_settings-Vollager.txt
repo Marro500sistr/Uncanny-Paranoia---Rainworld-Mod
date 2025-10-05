@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0
+Palette: 1945
+EffectColorA: 19
+EffectColorB: 7
+Effects: Coldness-1-20-20, Contrast-0-19-69, Fog-0.03093288-245.5719-111.7778, BorderPushBack-1-261.1052-9.955555, Darkness-1-30-30, 
+PlacedObjects: LightBeam><670.2079><960.0093><-7.395813~10~-2.873779~11.68878~-1.192993~10.68884~-438.9698~-578.8445~0.8175951~0~0~1~None~0~0, LightBeam><858.9139><229.1919><-249.0104~214.9333~-267.35~584~467.5865~23.46666~-416.9146~-102.4~0.4850663~0~0~1~None~0~0, LightBeam><177.4014><257.4361><-119.525~214.9333~445.5313~194.3111~40~0~137.3115~-17.06665~0.8407947~0~0~1~None~0~0, DangleFruit><372.6389><881.7928><22593.23~-22715.8~2~3, LightSource><1644.305><1348.6><0.4664061~EffectColor1~355.0177~-201.5112~-178.0198~112.8469~0~0~Flash~0.7965247~0, SpinningFan><952.2688><619.8525><100~50~0.6~0.3~0.9495922, SpinningFan><2105.244><619.0566><-296.9937~20.13336~0.6~0.3~0.9109259, SpinningFan><1136.651><619.8822><121.3437~40.75555~0.6~0.3~0.9186594, SpinningFan><2277.024><615.8075><-251.4604~47.15558~0.6~0.3~0.8567929, CustomDecal><2796.818><977.2005><32.72717~57.06665~123.2406~58.48889~122.5292~-2.133333~-122.3708~108.8~0~1~1~lcmarking~1~0.4330617~1~0.4330617~1~0.4330617~1~0.4330617, SnowSource><1039.914><1455.158><Radial~-1459.913~319.0222~50~86.60254~1~0.5722603, SnowSource><27.47114><1194.626><UnSnow~0~100~50~86.60254~1~0, SnowSource><2654.244><1259.364><Radial~-569.8041~-186.9333~50~86.60254~1~0, LocalBlizzard><2417.523><1389.488><-527.9021~-439.7333~220~173.6025~0.520539~0.3917349~0, LocalBlizzard><571.425><1319.622><-527.9021~-439.7333~50~86.60254~0.520539~0.3917349~0, LocalBlizzard><1759.562><1339.504><-527.9021~-439.7333~50~86.60254~0.520539~0.3917349~0, SnowSource><1348.364><543.5924><UnSnow~114.5448~-134.6667~50~86.60254~0.1570766~0, SnowSource><1895.45><594.0889><UnSnow~114.5448~-134.6667~50~86.60254~0.1570766~0, 
+AmbientSounds: OMNI><AM_WIN_Hilltop.ogg><704.5035><459.2886><0.5><1, OMNI><AM_IND-Midsex01.ogg><719.6188><164.8878><0.5><1, OMNI><am_ind-warehouse02.ogg><725.5759><321.9558><0.662398><1, DIR><WIND BUT COOL (1).wav><421.0474><216.518><0.5><1><17.39034><0, 
+Triggers: SeeCreature<tA>event<tB>NONE<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>175.3477<tB>26.03125<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, Spot<tA>event<tB>MusicEvent<eA>songName<eB>rw_72 - satellite<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>450.6814<tB>429.7959<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>2114.52<tB>867.8181<tA>handlePos<tB>-79.46582<tB>-70.1998, 

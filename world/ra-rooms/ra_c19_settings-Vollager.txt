@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04983094
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 1945
+EffectColorA: 11
+EffectColorB: 10
+Effects: Contrast-0.02319966-20-20, Fog-0.8429233-28.57709-80.48888, SandPuffs-0.5258605-15.77084-126.7111, Darkness-1-30-30, 
+PlacedObjects: SuperStructureFuses><347.2099><252.0978><97.62811~95.46666, SuperStructureFuses><470.576><447.3828><71.3042~73.42221, SuperStructureFuses><826.2189><490.5221><86.24481~74.13333, LightSource><327.8687><525.39><1~EffectColor1~0~100~50~86.60254~1~0~None~0~0, LightSource><611.6642><502.3301><1~EffectColor2~0~100~50~86.60254~1~0~None~0~0, DeepProcessing><107.6577><152.4033><-22.76667~721.2444~40~725.5111~40~0~165.0583~8.533333~0.115999~0.8453352~0.0978712, DeepProcessing><1209.405><133.1555><-0.0001220703~763.9111~59.92078~753.2444~40~0~-619.6802~224~0.1237315~1~0.5, LightBeam><285.8634><310.8685><-273.9115~502.2222~951.3781~543.4667~1078.729~301.5111~234.7813~-190.5778~0.3845327~0~0~1~None~0~0, 
+AmbientSounds: OMNI><MSC-ElectricPulse.ogg><703.899><349.6986><0.1520041><1, OMNI><AM_IND-Warehouse01.ogg><769.2309><414.4569><0.5><1, 
+FadePalette: 10, 0.6186595

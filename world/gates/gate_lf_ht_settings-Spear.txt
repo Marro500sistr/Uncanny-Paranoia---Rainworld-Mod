@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 1
+Palette: 14
+Effects: WaterFluxMinLevel-0.1956522-236-27, WaterFluxMaxLevel-0.25-198-74, 
+FadePalette: 8, 0.25

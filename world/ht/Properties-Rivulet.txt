@@ -1,0 +1,7 @@
+pupSpawnChance: 0
+overseersSpawnChance: 0.03
+overseersMin: 0
+overseersMax: 2
+Subregion: Corroded Arrays
+kelpColor: 0.0, 0.0, 0.0
+

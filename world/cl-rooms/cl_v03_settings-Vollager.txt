@@ -1,0 +1,15 @@
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1630435
+Grime: 0
+Effects: SilenceWater-0.326087-20-20, Coldness-1-17-75, Darkness-0.6086956-30-30, 
+PlacedObjects: Vine><762.649><733.8834><-84~504, Vine><192.0505><1569.236><77~-487, Vine><528.4494><2660.694><15~-932, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><828.3275><642.3512><0.1304348><1, OMNI><AM_ENV-CityTone.ogg><830.4373><566.1797><0.2173913><1, SPOT><AM_WIN-SubWnd.ogg><819.6249><451.4061><0.3478261><1><468.6249><2345.406><-207.3553><-181.3553><0><0.6108697, 
+FadePalette: 0, 0.2826087, 0.25, 0.2282609, 0.2065217
+WetTerrain: OFF

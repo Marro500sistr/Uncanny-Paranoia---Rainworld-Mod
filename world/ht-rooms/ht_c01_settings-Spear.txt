@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5003284
+WaveLength: 0.9998358
+WaveAmplitude: 0.04969939
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8913044
+Grime: 0.2934783
+Palette: 14
+EffectColorB: 13
+Effects: Fog-1-214-74, Darkness-0-0-0, 
+PlacedObjects: DeadTokenStalk><4031.801><474.2281><47~-37, DeadTokenStalk><4058.104><537.0789><51~-62, DeadTokenStalk><3871.261><231.4497><16~-74, DeadTokenStalk><2996.344><222.0738><-23~-65, DeadTokenStalk><2092.392><757.9182><-28~-62, DeadTokenStalk><2150.607><657.5808><-62~-21, PlacedWaterfall><223.3675><689.8502><100~50~8.347825~1, 
+Triggers: RegionBump<tA>event<tB>RoomSpecificTextMessage<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>703.8242<tB>314.4047<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 0, 0.6521739, 0.6521739, 0.6521739

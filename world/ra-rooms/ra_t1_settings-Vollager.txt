@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
+Palette: 1945
+EffectColorA: 9
+EffectColorB: 9
+Effects: Dustpuffs-1-15.05939-86.17777, Coldness-1-17.19376-139.5111, Contrast-0.03093321-275.4531-49.91111, Fog-0.5824051-269.05-106.0889, ReplaceEffectColorB-0-735.0552-338.6222-Color-0.409861-0.3968068-0.4253281, Darkness-1-20-20, 
+PlacedObjects: LightBeam><126.782><446.9672><-136.6~309.5111~-10.51352~311.6445~52.0948~152.1778~54.07082~-156.4445~0.8639944~0~0~1~None~0~0, LightBeam><1304.026><213.0762><-129.4854~544.1777~-12.64807~543.4667~49.24902~410.3111~-429.0094~-50.48889~0.941328~0~0~1~None~0~0, DangleFruit><848.0018><452.7995><0~0~3~10, ProjectedStars><267.4086><232.9605><283.1604~90.04446, LightSource><250.5297><154.4476><1~EffectColor1~192.8052~113.5111~50~86.60254~1~0~None~0~0, SnowSource><589.7334><752.8687><Radial~702.2094~-478.1333~-9.762512~-145.9308~0.3968068~1, 
+AmbientSounds: OMNI><SO_IND-Humm.ogg><753.9142><434.3304><0.2370698><1, OMNI><SO_NAT-LilDrips.ogg><738.8716><251.3465><0.2448034><1, OMNI><AM_IND-Midsex01.ogg><715.922><157.1917><0.2834692><1, OMNI><WIND BUT COOL (1).wav><720.283><545.9394><0.1752047><0.5963253, 
+FadePalette: 1945, 0.5026608
+WetTerrain: OFF

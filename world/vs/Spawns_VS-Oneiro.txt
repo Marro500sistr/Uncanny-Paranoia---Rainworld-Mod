@@ -1,0 +1,35 @@
+OFFSCREEN : 0-Scavenger-8, 0-Vulture-3, 0-KingVulture-1
+VS_C05 : 3-Centipede-4, 4-Red Centipede
+VS_D04 : 6-Black-2, 8-Black-2
+VS_B16 : 7-Black-2
+VS_C10 : 7-Black-2
+VS_E02 : 8-Black-2, 10-Black-2, 13-Black
+VS_F02 : 7-Black-3, 14-Salamander-2
+VS_A05 : 4-Cyan-3
+VS_C01 : 12-Tentacle Plant
+VS_D01 : 4-DropBug
+VS_A04 : 5-DropBug
+VS_C07 : 8-Centipede-2, 11-Centipede-4
+VS_B09 : 3-Centipede-3, 5-Small Centipede-3
+VS_D03 : 4-Snail-3
+VS_C08 : 4-Snail-4, 7-Jet Fish
+VS_C03 : 4-Snail-4, 5-DropBug
+VS_D02 : 4-Snail-3
+VS_E01 : 6-Jet Fish
+VS_C02 : 3-Cyan
+VS_C04 : 2-Pole Mimic-{12}, 3-CicadaA-2, 6-CicadaB-3
+VS_B07 : 6-Centipede-5
+VS_A03 : 4-Small Centipede-2, 5-Centipede
+VS_B12 : 6-Small Centipede-5
+VS_C09 : 2-Egg Bug-2
+VS_A08 : 2-Centipede-2, 3-Small Centipede-4
+VS_H01 : 8-Tentacle Plant
+VS_C11 : 3-Black
+VS_F01 : 5-Centipede-2
+VS_C13 : 3-CicadaA-2, 6-CicadaB-3, 5-Cyan
+VS_A10 : 4-DropBug
+VS_A15 : 6-DropBug
+LINEAGE : VS_C13 : 5 : Cyan-0.1, White-0.4, Cyan-0
+LINEAGE : VS_C04 : 4 : Cyan-0.1, Eel-0.4, Red-0
+LINEAGE : VS_A05 : 4 : None-0.2, Cyan-0.2, White-0
+LINEAGE : VS_C02 : 3 : Cyan-0.2, Blue-0.4, Eel-0

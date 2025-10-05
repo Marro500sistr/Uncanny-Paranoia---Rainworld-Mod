@@ -1,0 +1,11 @@
+DangerType: Rain
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04933487
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.6195652
+EffectColorB: 13
+Effects: Fog-0.7391304-16-68, Darkness-0.1304348-290-80, LightRain-0.2826087-20-20, 
+PlacedObjects: DeadTokenStalk><2710.563><636.3207><53~-57, DeadTokenStalk><2699.153><602.6749><35~-58, DeadTokenStalk><374.8721><255.8416><-27~-79, DeadTokenStalk><236.4493><304.7333><28~-126, DeadTokenStalk><1090.658><263.6222><-45~-86, DeadTokenStalk><1117.503><418.3><48~-60, 
+FadePalette: 22, 0.4565217, 0.4565217

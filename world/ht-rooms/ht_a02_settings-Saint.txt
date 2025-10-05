@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 14
+Effects: WaterFluxMinLevel-0.5-20-20, WaterFluxMaxLevel-0.5326087-30-30, Coldness-1-40-40, 
+FadePalette: 8, 0.6739131
+WetTerrain: OFF

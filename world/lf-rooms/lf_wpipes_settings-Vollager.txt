@@ -1,0 +1,9 @@
+DangerType: Flood
+WaveSpeed: 0.5201137
+WaveLength: 0.9899431
+WaveAmplitude: 0.02547858
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: Darkness-0.5978261-25-97, WaterLights-0-20-20, WaterFluxMinLevel-0-260-93, WaterFluxMaxLevel-0.01086957-271-43, 
+PlacedObjects: Vine><727.571><539.563><1~161, SnowSource><733.907><466.3762><Radial~-17~-232~50~86.60254~0.8478261~1, 
+FadePalette: 8, 0.6304348

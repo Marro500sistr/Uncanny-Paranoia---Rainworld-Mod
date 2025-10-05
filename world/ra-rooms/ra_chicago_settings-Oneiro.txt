@@ -1,0 +1,15 @@
+Template: NONE
+WaveSpeed: 0
+WaveLength: 0
+WaveAmplitude: 0
+SecondWaveLength: 1
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 1945
+EffectColorA: 10
+EffectColorB: 10
+Effects: WaterDepth-0.05413271-20-20, SilenceWater-1-14.34793-99.68889, Fog-0.7680026-286.8365-60.57777, Dustpuffs-1-233.4771-121.0222, Coldness-1-30-30, ZeroG-0.1184102-296.125-9.422226, Darkness-0.7173913-40-40, 
+PlacedObjects: LightSource><406.0059><415.282><0.528272~EffectColor1~0~100~50~86.60254~1~0~Fade~0.4717281~0, SuperStructureFuses><390.3658><397.6696><40~40, SuperStructureFuses><385.8938><167.6839><40~40, SuperStructureFuses><386.6013><317.1218><40~40, PWLightrod><411.9498><395.8354><168.1497~39.77777~0.01546644~0~121.141~0.182937~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0~0.4~0~0, CGCosmeticWater><10.56645><164.4203><744.5813^32.44444, ExitSymbolHidden><609.2304><410.8294><, LightBeam><95.47853><152.8751><-446.0844~588.9778~1080.152~583.2889~826.1615~-177.7778~41.26459~-166.4~0.3613334~0~0~1~None~0~0, 
+AmbientSounds: OMNI><MSC-ElectricPulse.ogg><736.4489><356.099><0.159737><1, OMNI><AM_IND-Warehouse01.ogg><758.8332><417.7823><0.5><1, 
+FadePalette: 22, 0.6186595

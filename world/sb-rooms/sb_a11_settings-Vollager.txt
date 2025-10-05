@@ -1,0 +1,13 @@
+DangerType: Blizzard
+RainIntensity: 0.2065217
+RumbleIntensity: 0.1847826
+WaveSpeed: 0.5039447
+WaveLength: 0.9463972
+WaveAmplitude: 0.01032608
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+Palette: 12
+Effects: Darkness-0.5978261-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><832.1908><651.941><0.2717391><1, OMNI><AM_SUB-CaveTone.ogg><656.9767><653.4486><0.3369565><1, 
+FadePalette: 0, 0.3369565

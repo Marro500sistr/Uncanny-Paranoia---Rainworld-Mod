@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.4707087
+WaveLength: 0.790271
+WaveAmplitude: 0.04999999
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 1945
+Effects: Fog-0.765591-20-20, Darkness-1-30-30, 
+AmbientSounds: OMNI><MSC-ElectricPulse.ogg><737.3136><360.1768><0.2989356><1, OMNI><AM_IND-Warehouse01.ogg><729.5764><418.7666><0.5><1, 
+FadePalette: 10, 0.1623981, 0.1546649, 0.1546647

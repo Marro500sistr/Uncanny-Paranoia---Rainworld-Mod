@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 1
+Grime: 0
+Palette: 1945
+Effects: Fog-0.765591-20-20, Darkness-0.3152174-30-30, 
+AmbientSounds: OMNI><MSC-ElectricPulse.ogg><737.3136><360.1768><0.2989356><1, OMNI><AM_IND-Warehouse01.ogg><729.5764><418.7666><0.5><1, 
+FadePalette: 22, 0.6080503, 0.6003171, 0.6111865

@@ -1,0 +1,54 @@
+{
+	"id": "Oneiro",
+	"name": "The oneirophrenic",
+	"description": "Tormented by the lack of sleep, this wounded champion sets out to travel<LINE>through the lands around him in search of answers.",
+	"features": {
+		"color": "917e7e",
+		"auto_grab_batflies": false,
+		"weight": [ 0.96, 0.8 ],
+		"loudness": 2.3,
+		"lung_capacity": 2.5,
+		"diet": {
+			"base": "White",
+			"corpses": 0.5,
+			"meat": 0.25,
+			"plants": 0.25,
+			"overrides": {
+				"Scavenger": 1.25,
+				"DangleFruit": 0.25,
+				"SmallCentipede": 1,
+				"Centipede": 2
+			}
+		},
+		"can_maul": true,
+		"maul_blacklist": [ "TubeWorm" ],
+		"maul_damage": 0.8,
+		"karma": 0,
+		"karma_cap": 3,
+		"start_room": [ "HT_O01", "VS_C01" ],
+		"guide_overseer": 4,
+		"has_dreams": true,
+		"use_default_dreams": false,
+		"cycle_length_min": 10.5,
+		"cycle_length_max": 14.5,
+		"food_min": 5,
+		"food_max": 6,
+		"the_mark": true,
+
+		"world_state": [ "Oneiro", "Rivulet" ],
+		"expedition_enabled": true,
+		"expedition_description": "First line of description.<LINE>Second line of description.",
+		"story_regions": [ "SU", "HI", "DS", "GW", "SL", "UW", "-SS", "-RM", "CC", "SI", "LF", "SB", "-MS", "HT" ],
+		"intro_slideshow": "Oneiro_Intro",
+		"outro_slideshow": "oneiro_Outro",
+
+
+		"Oneiro/explode_on_death": false,
+
+		"select_menu_scene": "Slugcat_theoneirophrenic",
+		"select_menu_scene_ascended": "ghost_theoneirophrenic",
+		"sleep_scene": "sleep_theoneirophrenic"
+
+
+	}
+}

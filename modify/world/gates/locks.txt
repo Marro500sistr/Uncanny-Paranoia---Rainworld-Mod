@@ -1,0 +1,4 @@
+[ADD]GATE_LF_OH : 1 : 1
+[ADD]GATE_LF_HT : 1 : 1
+[ADD]GATE_HT_SU : 1 : Forbidden
+

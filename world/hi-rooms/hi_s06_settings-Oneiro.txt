@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.3043478
+Palette: 5
+PlacedObjects: BrokenShelterWaterLevel><543.9487><367.9773><, Corruption><547.6207><390.9095><5~61, StuckDaddy><548.6285><391.8411><7~34, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><831.9324><644.0821><0.3043478><0.7847826, 
+FadePalette: 10, 0.9130435

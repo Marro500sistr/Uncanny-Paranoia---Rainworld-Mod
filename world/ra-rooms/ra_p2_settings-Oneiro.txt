@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 1
+Grime: 0
+Palette: 1945
+Effects: Darkness-0.3043478-20-20, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><733.0159><447.8418><0.5><1, OMNI><AM_SUB-CaveTone.ogg><746.4351><252.0714><0.5><1, OMNI><MSC-WetConduits.ogg><741.8043><187.0468><0.5><1, 
+FadePalette: 22, 0.769203, 0.7612545

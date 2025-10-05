@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 42
+Effects: WaterFluxMinLevel-1-20-20, WaterFluxMaxLevel-1-30-30, LethalWater-0.8152174-40-40, 
+FadePalette: 10, 0.6195652, 0.6195652, 0.5978261

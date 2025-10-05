@@ -1,0 +1,12 @@
+OH_landscape - 6 : 5 : Normal
+OH_landscape - 5 : 3 : Normal
+OH_landscape - 4 : 1.9 : Normal
+OH_landscape - 3 : 1.6 : Normal
+OH_landscape - 2 : 1.5 : Normal
+OH_landscape - 1 : 1 : Normal
+
+blurMin : 0
+blurMax : 0.3
+idleDepths : 1.5
+idleDepths : 1.6
+idleDepths : 2

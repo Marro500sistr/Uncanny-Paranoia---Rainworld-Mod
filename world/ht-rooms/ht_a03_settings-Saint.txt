@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6820211
+WaveLength: 0.9089894
+WaveAmplitude: 2.66915E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7608696
+Palette: 14
+EffectColorA: 13
+EffectColorB: 13
+Effects: Fog-0.8586956-20-20, Coldness-1-29-53, 
+PlacedObjects: SnowSource><750.2031><588.4445><Radial~652~-540~50~86.60254~1~1, 
+FadePalette: 0, 0.6086956
+WetTerrain: OFF

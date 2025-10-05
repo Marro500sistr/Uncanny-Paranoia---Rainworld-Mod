@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: AerieBlizzard
+CeilingDrips: 0
+RainIntensity: 0.03334477
+WaveSpeed: 0.5000066
+WaveLength: 0.9999967
+WaveAmplitude: 5.455959E-14
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.4717278
+Grime: 0.05147154
+RandomItemDensity: 1
+RandomItemSpearChance: 0.6717277
+Palette: 1945
+EffectColorA: 10
+EffectColorB: 6
+Effects: Contrast-0.04639949-20-20, LightRain-0.1521739-30-68, 
+PlacedObjects: LightBeam><1135.955><97.35838><-1156.18~755.1111~1777.631~756.0222~3317.715~-48.82224~-66.67441~261~0.938858~0.7680027~0.3479959~0~None~0~0, LightSource><22.5051><740.9469><1~Environment~530.0365~-126.8445~-295.0573~-248.3308~1~0~None~0~1, LightBeam><1155.655><91.78302><-1162.523~760.3556~853.1969~761.7777~1004.026~-7.111115~-293.1208~242.4889~0.6551969~0~0~1~None~0~0, GooieDuck><4340.63><244.4665><30.59265~167.8222~2~3, LightBeam><4057.745><292.0473><-273.2~722.6666~131.0667~724.8~456.2031~364.8~14.94055~139.3777~0.5237321~0.2551973~0~1~None~0~0, ReliableSpear><445.2163><405.6593><, ReliableSpear><700.7378><152.7145><, ReliableSpear><645.3145><152.2963><, ReliableSpear><340.906><161.688><, ReliableSpear><539.802><157.0593><, 
+AmbientSounds: OMNI><AM_ENV-WinterHum.ogg><723.3648><395.0927><0.5><1, SPOT><so_ind-mechhum01.ogg><718.377><270.0585><0.3530678><1><324.9083><276.3752><-35.35534><-35.35534><0><0.06186577, SPOT><so_sfx-datatrans2.ogg><721.5756><157.2869><0.3530691><1><276.1705><274.591><-35.35534><-35.35534><0><0.1, SPOT><so_sfx-datatrans2.ogg><535.1964><38.58417><0.3530678><1><74.85052><281.105><-35.35534><-35.35534><0><0.1, SPOT><so_sfx-datatrans2.ogg><714.4319><38.70276><0.3530685><1><179.3829><276.2433><-35.35534><-35.35534><0><0.1, 
+FadePalette: 22, 0.5, 0.5, 0.5, 0.5
+BackgroundOffset: 2934.782,250.9075

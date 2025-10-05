@@ -1,0 +1,18 @@
+Template: CL_SettingsTemplate_DarkSun
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.1956522
+RumbleIntensity: 0
+WaveSpeed: 0.500297
+WaveLength: 0.9998515
+WaveAmplitude: 0.0005891439
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3043478
+Grime: 0.1086956
+BkgDroneVolume: 0
+Effects: LightBurn-0.25-39-180, RockFlea-0.4891304-20-20, Coldness-1-17-85, Darkness-0.7065217-30-30, 
+PlacedObjects: DangleFruit><666.05><341.9987><-488~193~2~3, DangleFruit><730.804><317.4605><-819~91~2~3, DangleFruit><932.0527><528.7828><2~-86~2~3, SnowSource><139.8789><470.4092><Radial~636~-470~55~-366.3975~0.1521739~1, Vine><877.6781><645.0911><-101~-187, Vine><545.6323><652.15><82~-179, Vine><372.609><665.1677><-31~-80, Vine><548.0981><49.82568><25~96, Vine><154.988><149.9496><60~116, 
+AmbientSounds: SPOT><AM_ENV-CityTone.ogg><720.5479><564.0558><0.3804348><0.7065217><584.548><564.0558><-189.3553><-36.35535><0><0.3934784, OMNI><AM_ENV-CityTone.ogg><835.8067><646.0582><0.3913043><0.8434783, 
+FadePalette: 0, 0.2934783
+WetTerrain: OFF

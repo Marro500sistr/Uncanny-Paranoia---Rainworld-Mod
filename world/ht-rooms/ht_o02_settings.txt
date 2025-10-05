@@ -1,0 +1,3 @@
+Template: NONE
+Palette: 12
+PlacedObjects: EEGhostSpot><428.0538><608.8074><, 

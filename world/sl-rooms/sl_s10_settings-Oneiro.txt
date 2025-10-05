@@ -1,0 +1,9 @@
+Template: SL_SettingsTemplate_Sewer
+WaveAmplitude: 0.02173913
+SecondWaveAmplitude: 0
+Clouds: 0.4021739
+Grime: 0
+Effects: WaterDepth-0.2608696-41-77, BrokenZeroG-0.5326087-20-20, 
+PlacedObjects: BrokenShelterWaterLevel><442.6973><417.6929><, Corruption><442.7169><529.0527><26~83, StuckDaddy><443.4106><528.679><-15~52, 
+AmbientSounds: OMNI><waterGurgleLOOP2.wav><654.7124><649.6964><0.2282609><1, OMNI><AM_IND-SuperStructure.ogg><478.6987><651.8066><0.2717391><1, 
+FadePalette: 10, 0.6630435

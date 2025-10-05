@@ -1,0 +1,3 @@
+Effects: LightRain-0.1630435-30-30, 
+FadePalette: 22, 0.75, 0.7391304
+MorePalette0: 8, 0.04347826, 0.1086956

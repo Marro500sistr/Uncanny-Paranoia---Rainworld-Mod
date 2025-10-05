@@ -1,0 +1,325 @@
+{
+	"id": "ll_Outro",
+	"slideshow_folder": "slideshows/outro - ll",
+	"next_process": "Credits",
+	"music": {
+		"name": "RW_Outro_Theme",
+		"fade_in": 40
+	},
+	"scenes": [
+		{
+			"name": "outro ll 1 - down swim",
+			"scene_folder": "slideshows/outro - ll/outro ll 1 - down swim",
+			"fade_in_start": 2,
+			"fade_in_end": 8.25,
+			"fade_out_start": 11,
+			"images": [
+				{
+					"name": "7 - slugcatse",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				},
+				{
+					"name": "6 - slugcatsd",
+					"pos": [ 0, 0 ],
+					"depth": 2.9,
+					"shader": "Basic"
+				},
+				{
+					"name": "5 - slugcatsc",
+					"pos": [ -20, 15 ],
+					"depth": 2.3,
+					"shader": "Basic"
+				},
+				{
+					"name": "4 - slugcatsb",
+					"pos": [ -20, 15 ],
+					"depth": 1.9,
+					"shader": "Basic"
+				},
+				{
+					"name": "3 - slugcatsa",
+					"pos": [ -20, 15 ],
+					"depth": 1.6,
+					"shader": "Basic"
+				},
+				{
+					"name": "2 - bluebloom",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				},
+				{
+					"name": "1 - mainslugcat",
+					"pos": [ -20, 15 ],
+					"depth": 1.05,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ -200, 150, 0 ]
+			]
+		},
+		{
+			"name": "outro ll 2 - right swim",
+			"scene_folder": "slideshows/outro - ll/outro ll 2 - right swim",
+			"fade_in_start": 12.2,
+			"fade_in_end": 18.25,
+			"fade_out_start": 21,
+			"images": [
+				{
+					"name": "7 - swimbkg",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				},
+				{
+					"name": "6 - bkgswimmers",
+					"pos": [ 80, 60 ],
+					"depth": 1.05,
+					"shader": "Basic"
+				},
+				{
+					"name": "5 - mainswimmer",
+					"pos": [ 20, 15 ],
+					"depth": 1.8,
+					"shader": "Basic"
+				},
+				{
+					"name": "4 - slugcatbloomlighten",
+					"pos": [ 20, 15 ],
+					"depth": 1.8,
+					"shader": "Basic"
+				},
+				{
+					"name": "3 - slugcatbloomoverlay",
+					"pos": [ 20, 15 ],
+					"depth": 1.8,
+					"shader": "Basic"
+				},
+				{
+					"name": "2 - bubbles",
+					"pos": [ 0, 0 ],
+					"depth": 1.45,
+					"shader": "Basic"
+				},
+				{
+					"name": "1 - foregroundslugcats",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ 200, 150, 0 ],
+				[ 300, 225, 3.5 ]
+			],
+			"movements": [
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ]
+			]
+		},
+		{
+			"name": "outro ll 3 - face",
+			"scene_folder": "slideshows/outro - ll/outro ll 3 - face",
+			"fade_in_start": 22.5,
+			"fade_in_end": 27.25,
+			"fade_out_start": 29,
+			"images": [
+				{
+					"name": "4 - clouds",
+					"pos": [ 0, 0 ],
+					"depth": 8,
+					"shader": "Basic"
+				},
+				{
+					"name": "3 - bloomlights",
+					"pos": [ 0, 0 ],
+					"depth": 10,
+					"shader": "Basic"
+				},
+				{
+					"name": "2 - facebloom",
+					"pos": [ 0, 0 ],
+					"depth": 1.8,
+					"shader": "Basic"
+				},
+				{
+					"name": "1 - facecloseupred",
+					"pos": [ 0, 0 ],
+					"depth": 1.8,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ 200, 0, 0 ]
+			],
+			"movements": [
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ]
+			]
+		},
+		{
+			"name": "outro ll 4 - home",
+			"scene_folder": "slideshows/outro - ll/outro ll 4 - home",
+			"fade_in_start": 31,
+			"fade_in_end": 38.25,
+			"fade_out_start": 42,
+			"images": [
+				{
+					"name": "5 - iterator",
+					"pos": [ 0, 0 ],
+					"depth": -2.5,
+					"shader": "Basic"
+				},
+				{
+					"name": "4 - foliage",
+					"pos": [ 0, 0 ],
+					"depth": -2,
+					"shader": "Basic"
+				},
+				{
+					"name": "3 - fog",
+					"pos": [ 0, 0 ],
+					"depth": 1.6,
+					"shader": "Basic"
+				},
+				{
+					"name": "2 - slugcatbloom",
+					"pos": [ -80, -50 ],
+					"depth": 1.25,
+					"shader": "Basic"
+				},
+				{
+					"name": "1 - mainslugcat",
+					"pos": [ -80, -50 ],
+					"depth": 1.25,
+					"shader": "Basic"
+				},
+				{
+					"name": "0 - foreground",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ -200, -150, 0 ]
+			],
+			"movements": [
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ]
+			]
+		},
+		{
+			"name": "outro ll 5 - return",
+			"scene_folder": "slideshows/outro - ll/outro ll 5 - return",
+			"fade_in_start": 43,
+			"fade_in_end": 45.25,
+			"fade_out_start": 46,
+			"images": [
+				{
+					"name": "outro outsider 5 - 3",
+					"pos": [ 0, 0 ],
+					"depth": 1.3,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 5 - 2",
+					"pos": [ 0, 0 ],
+					"depth": 1.3,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 5 - 1",
+					"pos": [ 0, 0 ],
+					"depth": -1.3,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 5 - 0",
+					"pos": [ 0, 0 ],
+					"depth": 200,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ 150, 0, 0 ]
+			],
+			"movements": [
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ]
+			]
+		},
+		{
+			"name": "outro ll 6 - reunion",
+			"scene_folder": "slideshows/outro - ll/outro ll 6 - reunion",
+			"fade_in_start": 49,
+			"fade_in_end": 54.25,
+			"fade_out_start": 60,
+			"images": [
+				{
+					"name": "outro outsider 6 - 5",
+					"pos": [ 0, 0 ],
+					"depth": 6.5,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 6 - 4",
+					"pos": [ 0, 0 ],
+					"depth": 3.15,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 6 - 3",
+					"pos": [ 0, 0 ],
+					"depth": 1.6,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 6 - 2",
+					"pos": [ 0, 0 ],
+					"depth": 2.85,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 6 - 1",
+					"pos": [ 0, 0 ],
+					"depth": 1.6,
+					"shader": "Basic"
+				},
+				{
+					"name": "outro outsider 6 - 0",
+					"pos": [ 0, 0 ],
+					"depth": 1.3,
+					"shader": "Basic"
+				}
+			],
+			"camera_path": [
+				[ -150, -150, 0 ]
+			],
+			"movements": [
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ],
+				[ 0, 0 ]
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+Template: NONE
+CeilingDrips: 0
+WaveSpeed: 0.6107827
+WaveLength: 0.9446086
+WaveAmplitude: 9.039993E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 14
+Effects: Darkness-0.6956522-20-20, Coldness-1-29-77, 
+PlacedObjects: SlimeMold><843.2241><415.3017><-425~165~2~3, SlimeMold><805.97><402.3023><-600~-65~2~3, SlimeMold><901.9008><388.6736><-314~-242~2~3, SlimeMold><426.9925><478.6999><125~164~2~3, CosmeticSlimeMold><864.8161><395.0786><0~100, CosmeticSlimeMold2><429.4481><516.0277><0~100, SeedCob><573.4148><413.3867><102~160~7~10, DeadSeedCob><758.4147><414.1135><, SeedCob><669.3969><414.1714><344~135~7~10, 
+FadePalette: 10, 0.3913043
+WetTerrain: OFF

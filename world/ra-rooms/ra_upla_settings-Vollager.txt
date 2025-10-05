@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.2783966
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0.9
+SecondWaveLength: 0.5978712
+SecondWaveAmplitude: 1
+Clouds: 0
+Grime: 0.0386661
+Palette: 1945
+EffectColorA: 9
+EffectColorB: 10
+Effects: Fog-0-757.6302-141.0666, DirtyWater-0.930401-762.7646-190.1778, WaterFluxFrequency-1-1064-310, WaterFluxMinLevel-0.1701315-1072-255, WaterFluxMaxLevel-0.9898562-1069.433-42.8, WaterFluxSpeed-0.6263925-1079-202, BorderPushBack-0.3093295-1066-129, FairyParticles-1-810.3646-548.2222, WaterViscosity-0.1648095-1055.818-73.53333, ReplaceEffectColorB-0.2551973-1077.784-566.1778-Color-0.1855973-0.3040082-0.07733154, Coldness-1-793.3552-131.6444, Dustpuffs-0.1082654-806.2009-82.62222, BrokenZeroG-0-20-20, MossWater-1-30-30, Darkness-1-373-92, 
+PlacedObjects: FairyParticleSettings><423.8392><199.9629><946.0458~778.8953~0~1~1~0~1.716524~4.224423~461.9565~500~1000~1000~5~22.17399~160.4348~180~0.5~0.7~0~0~1~1~1~0.2282609~6.791306~Dandelion~SIN_IO~SIN_IO~0~0~2.391304, SnowSource><860.7267><997.7189><None~690.826~47.37778~50~86.60254~0.404541~1, LightBeam><7001.086><2963.069><-1242~60~-1193~764~167~370~-366~227~0.09565204~0~0~1~None~0~0, SnowSource><6110.636><1108.4><Radial~678~29~50~86.60254~0.5478595~1, SnowSource><1955.788><1132.178><Radial~-1011.694~23.9111~50~86.60254~0.543739~1, SnowSource><392.5397><1127.555><Radial~678~29~50~86.60254~0.5478595~1, Vine><211.7402><1414.7><13~-604, 
+AmbientSounds: OMNI><am_wat-sea01.ogg><680.5098><531.1676><1><0.7263927, OMNI><am_wat-sea03.ogg><704.2874><386.4701><1><0.5454359, OMNI><am_wat-sea02.ogg><686.713><465.0445><1><0.6011127, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NO SONG<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>693.8051<tB>211.6042<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>6039.701<tB>3164.115<tA>handlePos<tB>-46.73853<tB>-201.0443, 
+BackgroundOffset: 0,345.3362
+BackgroundType: atc_default_msc

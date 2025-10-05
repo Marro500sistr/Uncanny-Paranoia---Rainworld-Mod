@@ -1,0 +1,2 @@
+PlacedObjects: Corruption><470.5852><381.3633><4~82, StuckDaddy><470.1103><377.6431><-3~42, 
+FadePalette: 8, 0.2826087

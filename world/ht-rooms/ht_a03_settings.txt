@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.7608696
+Palette: 14
+EffectColorA: 13
+EffectColorB: 13
+Effects: Fog-0.8586956-20-20, 

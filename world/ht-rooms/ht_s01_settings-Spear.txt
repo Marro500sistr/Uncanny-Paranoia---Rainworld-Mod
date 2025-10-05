@@ -1,0 +1,4 @@
+Template: NONE
+DangerType: None
+Effects: Darkness-0.4021739-20-20, 
+FadePalette: 14, 0.3586957

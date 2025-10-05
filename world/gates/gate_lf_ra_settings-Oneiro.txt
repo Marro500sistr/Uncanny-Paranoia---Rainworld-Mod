@@ -1,0 +1,10 @@
+Template: NONE
+WaveSpeed: 0.4652165
+WaveLength: 0.9826083
+WaveAmplitude: 2.051363E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 1945
+PlacedObjects: PlacedPearlChain><165.8827><293.7377><-197.0739~-167.1111~1~1~0~0~0~0~0~0~0, CommonGateData><483.9586><253.6172><100~50~False~False~True~False~False~False~False~True~0.1880095~1~0.5514712, ElectricGateData><1050.481><57.69899><-992.7999~173.0222~True~False~False~False~False~True~True~False~0~1~False~0~1~0.5, NoSpearStickZone><476.7769><243.9843><-239.7614~17.51111, 
+FadePalette: 22, 0.8260869

@@ -1,0 +1,4 @@
+Clouds: 1
+Palette: 14
+Effects: WaterFluxMinLevel-0.3586957-236-27, WaterFluxMaxLevel-0.3695652-198-74, 
+FadePalette: 8, 0.6956522

@@ -1,0 +1,20 @@
+{"frames": {
+
+"TailTexture.png":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":72},
+	"sourceSize": {"w":128,"h":72}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TuftedTail.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":72},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ff40ca8db202f85990b3ac55d8bcd020:540559686bfbe8afc768ffef16b24a6b:4a729ce3cfac4976b9594d2df5a50ff3$"
+}
+}

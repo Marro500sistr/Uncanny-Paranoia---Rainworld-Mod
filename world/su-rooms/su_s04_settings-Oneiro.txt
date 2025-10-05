@@ -1,0 +1,5 @@
+DangerType: Flood
+Grime: 0.2065217
+Effects: Darkness-0.6630435-30-30, 
+PlacedObjects: Corruption><472.9396><546.0593><0~100, StuckDaddy><469.5558><540.2976><5~44, 
+FadePalette: 5, 1

@@ -1,0 +1,9 @@
+Template: NONE
+CeilingDrips: 0.6847826
+Clouds: 1
+Grime: 0.1521739
+Palette: 0
+Effects: Darkness-0.4565217-40-96, Desaturation-0.1086956-20-20, 
+PlacedObjects: NoSpearStickZone><477.738><259.1996><165~204, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><782.1232><519.0925><0.326087><0.823913, OMNI><SO_WAT-LilDrips.ogg><756.5147><608.0505><0.3043478><1, 
+FadePalette: 8, 0.6304348

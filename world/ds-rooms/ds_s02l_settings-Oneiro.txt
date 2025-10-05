@@ -1,0 +1,5 @@
+Clouds: 1
+Palette: 42
+PlacedObjects: BrokenShelterWaterLevel><498.3615><348.4161><, 
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><792.8503><290.0769><0.1847826><0.823913><270.8503><367.0769><-86.35535><-56.35535><0><0.1760871, 
+FadePalette: 10, 0.7065217

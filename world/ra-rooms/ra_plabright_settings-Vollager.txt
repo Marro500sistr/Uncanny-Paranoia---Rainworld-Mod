@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0.3015966
+RumbleIntensity: 0
+WaveSpeed: 0.4854626
+WaveLength: 0.9927313
+WaveAmplitude: 0.01357638
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7757356
+Grime: 0.0386661
+Palette: 1945
+EffectColorA: 9
+EffectColorB: 10
+Effects: MossWater-0.01787799-249.801-104.6222, Fog-1-1060-476, DirtyWater-0.930401-1063-422, PixelShift-1-1063-371, WaterFluxFrequency-1-1064-310, WaterFluxMinLevel-0.1701315-1072-255, WaterFluxMaxLevel-0.9898562-1069.433-42.8, WaterFluxSpeed-0.6263925-1079-202, BorderPushBack-0.3093295-1066-129, FairyParticles-1-293-50, WaterViscosity-0.09521153-291-1, ReplaceEffectColorB-0.2551973-1077.784-566.1778-Color-0.1855973-0.3040082-0.07733154, RoomWrap-1-1068.328-521.8889, Coldness-1-20-20, Darkness-1-30-30, 
+PlacedObjects: FairyParticleSettings><423.8392><199.9629><-194.9198~451.6825~0~1~1~0~1.716524~4.224423~461.9565~500~1000~1000~5~22.17399~160.4348~180~0.5~0.7~0~0~1~1~1~0.2282609~6.791306~Dandelion~SIN_IO~SIN_IO~0~0~2.391304, SnowSource><860.7267><997.7189><None~690.826~47.37778~50~86.60254~0.404541~1, SnowSource><6247.447><849.7808><None~406~154~50~86.60254~0.3695652~1, SnowSource><6515.615><1995.119><Radial~415~51~50~86.60254~0.7282609~1, SnowSource><6642.104><3347.863><Radial~423~-294~50~86.60254~0.8478261~1, LightBeam><6714><2340.03><-1242~60~-1193~764~167~370~-366~227~0.09565204~0~0~1~None~0~0, LightBeam><6636><1648><-1242~60~-1193~764~167~370~-676.1959~322.2889~0.09565204~0~0~1~None~0~0, SnowSource><4964><726.0001><Radial~678~29~50~86.60254~0.4782609~1, SnowSource><3762><790.48><Radial~678~29~50~86.60254~0.4782609~1, SnowSource><2375><657.2488><Radial~678~29~50~86.60254~0.4782609~1, SnowSource><1607><1648><Radial~678~29~331.026~46.0692~0.4782609~1, SnowSource><1610><2017><Radial~678~29~50~86.60254~0.4782609~1, CustomDecal><6848.714><1838.149><-163.6354~468.0889~553.6729~492.2667~587.8229~-209.0667~56.91663~-12.08887~0~1~1~rustb2~0.337602~1~0.337602~1~0.337602~1~0.337602~1, CustomDecal><6456.084><342.8222><-163.6354~468.0889~715.174~520.7111~587.8229~-209.0667~359.9979~-46.2222~0~1~1~rustb2~0.337602~1~0.337602~1~0.337602~1~0.337602~1, SlugcatEyeSelector><542.8315><685.9017><215.2562~49.28888~0~0~10~3~0.5~Closed~98.57709^57.33331, VultureMask><589.1602><695.7999><, ReliableSpear><569.3426><685.7994><, DayNightSettings><433.0726><771.4613><628.2375~-3.42865~22~10, DataPearl><1532.367><1330.087><-14~267~0~0~ RA_1945~0, ResizeablePopupTrigger><6845.297><3557.666><-528.9291~-72.3111~sait breaks watter and i blame CRS~0~6~-1~1~True~True~1~-100^40, 
+AmbientSounds: OMNI><am_wat-sea01.ogg><680.5098><531.1676><1><0.7263927, OMNI><am_wat-sea03.ogg><704.2874><386.4701><1><0.5454359, OMNI><am_wat-sea02.ogg><686.713><465.0445><1><0.6011127, SPOT><so_sfx-waitpad.ogg><386.2139><434.4905><0.6701312><1><1666.062><1419.375><2291.81><-1186.889><0><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NO SONG<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>693.8051<tB>211.6042<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>6039.701<tB>3164.115<tA>handlePos<tB>-46.73853<tB>-201.0443, 
+WetTerrain: OFF

@@ -1,0 +1,2 @@
+Effects: WaterLights-0-9-38, WaterFluxMinLevel-1-260-93, WaterFluxMaxLevel-1-271-43, Darkness-0.4347826-20-20, WaterDepth-0--1000--1000, 
+FadePalette: 22, 0.9347826

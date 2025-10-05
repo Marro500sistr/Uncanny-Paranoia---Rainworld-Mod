@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.5
+Palette: 14
+EffectColorB: 21
+Effects: Fog-1-20-20, Desaturation-0.1521739-20-78, LightRain-0.25-30-30, 
+PlacedObjects: DeadTokenStalk><368.382><460.3498><-12~-53, DeadTokenStalk><251.0505><470.5142><-21~-61, DeadTokenStalk><3534.87><467.5901><38~-59, DeadTokenStalk><3619.567><462.8309><-36~-55, DeadTokenStalk><4112.882><471.3389><21~-59, 
+FadePalette: 11, 0.1086956, 0.1086956, 0.1086956, 0.1086956, 0.1086956

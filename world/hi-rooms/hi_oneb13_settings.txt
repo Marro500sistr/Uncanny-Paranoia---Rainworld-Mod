@@ -1,0 +1,7 @@
+CeilingDrips: 0
+WaveSpeed: 0.52737
+WaveLength: 0.986315
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+WetTerrain: OFF

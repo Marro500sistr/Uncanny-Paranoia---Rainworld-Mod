@@ -1,0 +1,23 @@
+OFFSCREEN : 0-MirosVulture-3
+UW_E01 : 3-Blue, 2-White, 3-Cyan-{Night}, 4-Mimic-{18}, 5-Mimic-{16}
+UW_C01 : 2-Tube-2, 4-Daddy
+UW_A02 : 2-White
+UW_E02 : 6-Mimic
+UW_F01 : 4-White, 5-White, 2-BigSpider-{Night}, 4-CicadaB-2-{PreCycle}, 3-CicadaA-5-{PreCycle}
+UW_C04 : 5-Tube-2
+UW_D01 : 2-Eggbug-{PreCycle}
+UW_D06 : 3-Tube-2
+UW_D04 : 4-TerrorLongLegs, 5-Tube, 6-Tube, 7-Tube
+UW_D02 : 3-TerrorLongLegs
+UW_E03 : 4-Daddy, 8-Daddy
+UW_A09 : 5-Tube, 3-Tube
+UW_I01 : 5-TerrorLongLegs
+UW_D03 : 3-TerrorLongLegs
+UW_J01 : 3-Yellow-{Ignorecycle}, 4-Yellow-{Ignorecycle}, 5-Yellow-{Ignorecycle}, 6-Yellow-{Ignorecycle}
+UW_D07 : 4-Tube
+UW_E04RIV : 3-Daddy, 5-Tube
+UW_J02RIV : 5-Daddy, 8-Tube-2
+UW_C01RIV : 2-Tube-2, 3-Daddy
+UW_A01 : 2-TerrorLongLegs
+END CREATURES
+[ENDMERGE]

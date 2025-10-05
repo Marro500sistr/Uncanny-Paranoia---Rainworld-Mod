@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.5259882
+WaveLength: 0.9870059
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 14
+EffectColorB: 0
+Effects: WaterFluxMaxLevel-0.5108696-138-70, WaterFluxMinLevel-0.4673913-20-20, Darkness-0.2608696-30-30, Coldness-1-331-21, 
+PlacedObjects: BubbleGrass><760.444><429.2986><0~0~4~9, 
+FadePalette: 8, 0.6847826
+WetTerrain: OFF

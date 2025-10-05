@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5178818
+WaveLength: 0.9530771
+WaveAmplitude: 0.01132066
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 8
+Effects: Darkness-1-20-20, Coldness-1-30-30, 
+PlacedObjects: Lantern><710.6578><434.6272><0~0~4~9, CosmeticSlimeMold><715.4477><418.0304><0~100, CosmeticSlimeMold2><719.017><363.8007><81~131, SlimeMold><667.631><426.8392><-101~180~2~3, SlimeMold><530.5522><401.9706><-257~238~2~3, SlimeMold><790.6322><426.0999><248~144~2~3, 
+FadePalette: 0, 0

@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 28
+Effects: DayNight-0.7282609-29-123, Darkness-0.5760869-20-20, 
+PlacedObjects: DayNightSettings><63.59399><399.1248><5~8.660254~35~10, Corruption><550.5894><550.821><17~68, StuckDaddy><551.7469><552.45><18~26, 
+FadePalette: 3, 1

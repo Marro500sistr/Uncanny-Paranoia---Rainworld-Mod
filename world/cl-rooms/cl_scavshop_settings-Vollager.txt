@@ -1,0 +1,14 @@
+Template: cl_settingstemplate_darksun
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.4633099
+WaveLength: 0.9317474
+WaveAmplitude: 0.01273943
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.423913
+Effects: LightBurn-0.4565217-16-20, Darkness-0.6056048-30-30, 
+PlacedObjects: TradeOutpost><744.5414><333.8044><331~4, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><855.8068><656.0518><0.2065217><0.8826087, OMNI><AM_WIN-SubWnd.ogg><682.6971><654.5339><0.2826087><1, 
+FadePalette: 0, 0.4565217
+WetTerrain: OFF

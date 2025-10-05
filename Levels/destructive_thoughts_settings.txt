@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0
+Palette: 3
+EffectColorA: 1
+EffectColorB: 13
+Effects: Fog-1-16-50, Darkness-0.2717391-268-54, Desaturation-0.2065217-18-99, LightRain-0.2065217-267-100, 
+PlacedObjects: Mushroom><103.9732><207.5518><14~-115~2~3, Mushroom><138.6953><182.9567><49~-85~2~3, Mushroom><1282.084><225.3186><-170~108~2~3, Mushroom><1236.751><199.45><-216~176~2~3, CustomDecal><370.7992><374.1938><-17~102~67~76~68~4~336~-26~0~1~0~constellations~1~0~1~0~1~0~1~0, 
+FadePalette: 48, 0.5108696

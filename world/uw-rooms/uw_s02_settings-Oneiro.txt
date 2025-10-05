@@ -1,0 +1,3 @@
+Template: UW_SettingsTemplate_Underhang
+PlacedObjects: Corruption><509.8563><373.6109><5~56, StuckDaddy><509.1266><376.6573><6~28, 
+FadePalette: 8, 0.1630435

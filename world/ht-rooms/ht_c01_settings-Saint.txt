@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6722397
+WaveLength: 0.9138802
+WaveAmplitude: 1.842823E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.2173913
+Grime: 0.2934783
+Palette: 14
+EffectColorB: 13
+Effects: Fog-0.8586956-214-74, Darkness-0-0-0, Coldness-1-20-20, 
+PlacedObjects: DeadTokenStalk><4031.801><474.2281><47~-37, DeadTokenStalk><4058.104><537.0789><51~-62, DeadTokenStalk><3871.261><231.4497><16~-74, DeadTokenStalk><2996.344><222.0738><-23~-65, DeadTokenStalk><2092.392><757.9182><-28~-62, DeadTokenStalk><2150.607><657.5808><-62~-21, PlacedWaterfall><216.3675><703.8502><100~50~9.869564~5, SnowSource><3469.155><542.426><Radial~725~-546~79~28.60254~0.9130435~1, SnowSource><1939.061><470.6904><Radial~-753~-445~50~86.60254~1~0.5326087, SnowSource><546.5504><540.0118><Radial~853~-465~50~86.60254~0.6304348~1, 
+Triggers: RegionBump<tA>event<tB>RoomSpecificTextMessage<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>703.8242<tB>314.4047<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 0, 0.6086956, 0.6086956, 0.6086956
+WetTerrain: OFF

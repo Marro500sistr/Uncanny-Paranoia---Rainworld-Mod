@@ -1,0 +1,11 @@
+CeilingDrips: 0.07608695
+RainIntensity: 0
+RumbleIntensity: 0.5
+Clouds: 0.1413043
+Grime: 0.08695652
+BkgDroneVolume: 0
+Palette: 16
+EffectColorB: 5
+Effects: GreenSparks-0.08695652-20-20, Lightning-0.5652174-23-75, ElectricDeath-1-278-22, 
+PlacedObjects: Corruption><412.0531><402.215><1~75, Corruption><675.5741><400.1548><5~76, Corruption><68.31149><480.9403><0~100, Corruption><914.1624><512.1332><-70~-1, Corruption><928.9707><404.3022><0~54, 
+FadePalette: 17, 0.3043478

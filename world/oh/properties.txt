@@ -1,0 +1,8 @@
+Subregion: Unkept Promises
+corruptionEectColor: 0.0, 0.0, 1.0
+corruptionEyeColor: 0.0, 0.0, 1.0
+kelpColor: 1.0, 0.0, 0.4
+slugPupSpawnChance: 0
+earlyCycleChance: 0
+earlyCycleloodChance: 0
+GlacialWasteland: 1

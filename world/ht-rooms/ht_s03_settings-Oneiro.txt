@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 1
+Palette: 14
+EffectColorA: 13
+EffectColorB: 13
+Effects: Darkness-0.6521739-20-20, 
+PlacedObjects: Corruption><974.9381><444.6821><0~100, StuckDaddy><975.8535><446.9212><-2~53, 
+FadePalette: 3, 0.5760869

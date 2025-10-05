@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5171998
+WaveLength: 0.9914001
+WaveAmplitude: 0.003286347
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0
+Palette: 1945
+Effects: Darkness-1-20-20, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><733.0159><447.8418><0.5><1, OMNI><AM_SUB-CaveTone.ogg><746.4351><252.0714><0.5><1, OMNI><MSC-WetConduits.ogg><741.8043><187.0468><0.5><1, 
+FadePalette: 10, 0.2474639, 0.2938632

@@ -1,0 +1,17 @@
+Template: CL_SettingsTemplate_DarkSun
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.1521739
+RumbleIntensity: 0
+WaveSpeed: 0.5018485
+WaveLength: 0.9955994
+WaveAmplitude: 0.001184718
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.25
+BkgDroneVolume: 0
+Effects: LightBurn-0.5217391-26-144, Coldness-1-20-20, Darkness-0.7173913-30-30, 
+PlacedObjects: DangleFruit><80.30377><555.5386><-234~-9~2~3, DangleFruit><153.1949><538.295><-306~-73~2~3, CosmeticSlimeMold><869.7322><591.1992><26~-98, CosmeticSlimeMold><855.7><620.9936><-109~27, SlimeMold><896.8994><572.4229><-20~-82~2~3, SlimeMold><823.4468><626.7139><-312~-108~2~3, LightFixture><885.8303><618.8168><SlimeMoldLight~17.32051~-10~38, LightFixture><753.6671><403.39><SlimeMoldLight~-26.6795~-187~41, CosmeticSlimeMold><749.3004><430.2633><15~70, SlimeMold><750.8825><401.1619><-154~-270~2~3, SlimeMold><781.3017><402.9738><-69~-124~2~3, SlimeMold><898.5107><607.6997><-236~-161~2~3, InsectGroup><143.5516><104.275><32~97~0~0~RockFlea~0.5543478, Vine><478.6084><488.9181><-20~154, Vine><241.3102><409.6869><47~233, 
+AmbientSounds: SPOT><AM_ENV-CityTone.ogg><718.8509><568.1333><0.3152174><1><766.8509><539.1333><-158.3553><-48.35535><0><0.6434784, OMNI><AM_ENV-CityTone.ogg><824.2921><653.3045><0.4021739><0.8630434, 
+FadePalette: 0, 0.2717391
+WetTerrain: OFF

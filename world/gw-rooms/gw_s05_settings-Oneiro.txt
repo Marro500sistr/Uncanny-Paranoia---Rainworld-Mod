@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.2608696
+Palette: 4
+EffectColorA: 13
+PlacedObjects: BrokenShelterWaterLevel><554.224><373.4483><, Corruption><505.1624><433.9298><0~100, StuckDaddy><506.3017><433.3068><8~43, 
+FadePalette: 8, 0.3043478

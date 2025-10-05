@@ -1,0 +1,16 @@
+Template: si_settingstemplate_inside
+DangerType: Blizzard
+RainIntensity: 0.1847826
+RumbleIntensity: 0.1847826
+WaveSpeed: 0.5003856
+WaveLength: 0.9998072
+WaveAmplitude: 7.075587E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.5
+Palette: 16
+EffectColorA: 10
+Effects: SkyAndLightBloom-0.08695652-20-20, Coldness-1-28-63, Flies-0-30-30, Darkness-0.5652174-258-71, Lightning-0.9130435-3-134, GreenSparks-0.8043478-28-127, 
+PlacedObjects: KarmaFlower><500.2><334.5001><0~0~5~7, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><755.5623><457.0689><0.3369565><1><440.5623><389.0689><-187.3553><-30.35535><0><0.6652175, OMNI><AM_ENV-LightWind.ogg><769.3163><614.5792><0><1, OMNI><AM_ENV-NatWind.ogg><760.4124><372.3833><0.2608696><1, 
+FadePalette: 17, 0.3369565

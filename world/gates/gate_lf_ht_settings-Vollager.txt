@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.612434
+WaveLength: 0.943783
+WaveAmplitude: 0.004172165
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Palette: 14
+Effects: WaterFluxMinLevel-0.1086956-236-27, WaterFluxMaxLevel-0.1195652-198-74, Darkness-0.6739131-20-20, Coldness-1-0-0, 
+PlacedObjects: SnowSource><487.8094><272.4392><Radial~391~-13~50~86.60254~0.423913~1, 
+FadePalette: 8, 1

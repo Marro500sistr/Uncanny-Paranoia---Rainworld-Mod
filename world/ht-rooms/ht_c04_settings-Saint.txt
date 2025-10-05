@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6428936
+WaveLength: 0.9285532
+WaveAmplitude: 0.001570983
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7717391
+Palette: 0
+Effects: Darkness-0.1413043-20-20, Fog-0.173913-19-74, Coldness-1-30-30, 
+PlacedObjects: DeadTokenStalk><1042.165><388.887><91~61, DeadTokenStalk><789.0274><613.8019><-40~-37, DeadTokenStalk><680.0834><618.1818><47~-53, DeadTokenStalk><962.4169><379.5681><-35~83, DeadTokenStalk><396.5558><232.942><-33~-39, DeadTokenStalk><821.1864><1517.928><-37~-26, DeadTokenStalk><951.8305><1196.894><40~-106, DeadTokenStalk><1056.119><1163.84><-33~-80, DeadTokenStalk><659.1372><1534.855><49~-42, DeadTokenStalk><1039.19><2239.187><48~106, DeadTokenStalk><840.0414><2091.054><-62~-28, DeadTokenStalk><540.825><2137.153><50~-59, DeadTokenStalk><413.3753><2107.594><-58~-51, DeadTokenStalk><579.1992><1820.267><37~92, DeadTokenStalk><433.8008><1844.267><-52~82, SnowSource><422.0372><2136.197><Radial~269~-24~50~86.60254~0.5760869~1, SnowSource><348.1196><265.1603><Radial~62~164~50~86.60254~0.5869565~1, SnowSource><730.5902><1261.37><Radial~671~-402~50~86.60254~0.3695652~1, 
+FadePalette: 10, 0.7282609, 0.7282609, 0.7282609
+WetTerrain: OFF

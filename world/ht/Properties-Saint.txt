@@ -1,0 +1,6 @@
+pupSpawnChance: 0
+overseersSpawnChance: 0.03
+overseersMin: 0
+overseersMax: 2
+Subregion: False Canopy
+

@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.5652174
+Palette: 14
+EffectColorA: 13
+EffectColorB: 21
+Effects: Darkness-0.2173913-20-20, Fog-1-21-63, Desaturation-0.1847826-30-30, 
+FadePalette: 3, 0.5760869

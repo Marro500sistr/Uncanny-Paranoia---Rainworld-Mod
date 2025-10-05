@@ -1,0 +1,4 @@
+Template: CC_SettingsTemplate_Inside
+Grime: 0.173913
+PlacedObjects: BrokenShelterWaterLevel><570.0511><155.5214><, Corruption><584.9268><180.3139><15~86, StuckDaddy><583.5626><181.9399><-2~39, 
+FadePalette: 22, 0.9130435

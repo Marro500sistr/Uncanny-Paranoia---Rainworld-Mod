@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Rain
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04457502
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 15
+EffectColorA: 0
+EffectColorB: 9
+Effects: Brightness-0-7-25, Darkness-0.3152174-13-105, Contrast-0.05434782-270-26, Fog-1-269-82, GreenSparks-1-1040-184, LightRain-0.1521739-20-20, 
+PlacedObjects: SnowSource><694.0518><412.7233><Radial~1044~-2~50~86.60254~0.6847826~1, CustomDecal><224.1381><268.8947><-55~163~162~117~164~-24~27.00002~-432~0~1~0~constellations~1~0~1~0~1~0~1~0, CustomDecal><1029.047><269.9444><-66~144~283~151~217~-12~50~-442~0~1~0~constellations~1~0~1~0~1~0~1~0, 
+FadePalette: 22, 0.6956522

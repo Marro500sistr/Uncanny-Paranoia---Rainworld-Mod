@@ -1,0 +1,4 @@
+EffectColorB: 6
+Effects: Darkness-0.2717391-17-90, 
+PlacedObjects: BrokenShelterWaterLevel><711.3084><243.5574><, Corruption><713.4634><266.5534><0~100, StuckDaddy><711.84><272.38><0~63, 
+FadePalette: 22, 0.5760869

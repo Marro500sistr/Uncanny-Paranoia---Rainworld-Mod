@@ -1,0 +1,15 @@
+Template: NONE
+WaveSpeed: 0.4686795
+WaveLength: 0.9843398
+WaveAmplitude: 0.0003730357
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8586956
+Grime: 0.1195652
+Palette: 1949
+EffectColorA: 5
+EffectColorB: 5
+Effects: Contrast-0.1362776-671.6959-628.7111, Darkness-0-690.1542-565.2444, Fog-0.3051632-720.4916-339.6667, Coldness-1-696.2073-506.4889, Dustpuffs-1-722.7958-392.1111, LightBurn-0.06061985-701.124-447.6889, DarkenLights-0-20-20, Bloom-1-350.1563-108.2222, SandPuffs-1-11.50209-81.91111, LightRain-0.1521739-30-30, 
+PlacedObjects: LightBeam><300.1254><51.0717><-533~1420~859~1446.622~1187.405~-42.88889~-100.2387~1092.556~0.145403~0~0~1~None~0~0, ClimbableRope><110.4138><350.6385><-20.63229^-133.6889, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><725.8352><487.5764><0.5><1, 
+FadePalette: 22, 0.4103374, 0.4103374

@@ -1,0 +1,9 @@
+(Vollager)This dialogue box will only appear for survivor.
+
+(Vollager)This dialogue box will only appear for monk.
+
+(Vollager)This dialogue box will only appear for hunter.
+
+(Vollager)This dialogue box will appear for monk and survivor.
+
+(Vollager)UWUWUWU PUTO

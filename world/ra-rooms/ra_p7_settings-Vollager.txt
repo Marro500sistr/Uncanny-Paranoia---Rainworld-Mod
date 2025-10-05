@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.4652775
+WaveLength: 0.9826387
+WaveAmplitude: 2.066663E-11
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.01280577
+Palette: 1945
+Effects: Darkness-0.3804348-20-20, 
+AmbientSounds: SPOT><AM_IND-Warehouse01.ogg><729.276><417.9789><0.5><1><526.276><365.9789><-218.9116><-148.422><0><0.1, SPOT><AM_RAIN-MehThunder.ogg><728.8047><339.3892><1><1><439.0068><577.5225><-46.02722><-46.73315><0><0.1, 
+FadePalette: 10, 0.5026608

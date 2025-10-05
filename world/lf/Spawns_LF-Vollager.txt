@@ -1,0 +1,20 @@
+OFFSCREEN : 0-Deer-4, 0-MirosVulture-3, 0-Scavenger-8
+LF_A03 : 3-Small Centipede-2
+LF_D04 : 3-Centiwing-2-{Ignorecycle}
+LF_C01 : 2-Caramel, 3-TentaclePlant-{PreCycle}
+LF_C03 : 3-Yeek-2-{Winter}, 4-Yeek-3-{Winter}
+LF_E02 : 2-Caramel-{Ignorecycle}, 3-Yeek-6-{Winter}, 5-Caramel-{Ignorecycle}
+LF_A13 : 3-BigSpider-{Winter}, 4-BigSpider-{Winter}
+LF_D06 : 5-Centipede-{Ignorecycle}, 5-Small Centipede-2, 4-Small Centipede-2
+LF_D02 : 3-Centiwing-{Ignorecycle}
+LF_F02 : 3-Centiwing-{Ignorecycle}, 3-Centiwing-{Ignorecycle}, 5-CicadaA-3, 3-CicadaB-2-{PreCycle}, 3-CicadaA-4-{PreCycle}
+LF_E01 : 5-Caramel-{Ignorecycle}, 2-Salamander-{PreCycle}, 3-TentaclePlant-{PreCycle}
+LF_D08 : 7-Mimic-{13}, 3-Mimic-{10}, 5-Mimic-{15}, 8-SpitterSpider-2-{Winter}, 9-SpitterSpider-{Winter}, 9-BigSpider-2-{Winter}
+LF_D01 : 5-Caramel-{Ignorecycle}, 3-Centiwing-{Ignorecycle}, 6-Salamander-{PreCycle}
+LF_C02 : 6-Caramel-{Ignorecycle}, 4-Yeek-5-{Winter}, 5-Centiwing-{Ignorecycle}, 5-CicadaB-3-{PreCycle}, 6-CicadaA-3-{PreCycle}
+LF_D03 : 2-Centiwing-{Ignorecycle}, 5-Centiwing-{Ignorecycle}, 6-Caramel-{Ignorecycle}, 6-Salamander-{PreCycle}
+LF_E04 : 3-Centipede-{Ignorecycle}
+LF_B03 : 3-Centipede-4-{Ignorecycle}
+LINEAGE : LF_E01 : 4 : White-0.3, Red-0
+LINEAGE : LF_E03 : 2 : White-0.5, Red-0
+

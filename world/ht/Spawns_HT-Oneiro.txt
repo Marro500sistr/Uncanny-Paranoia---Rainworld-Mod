@@ -1,0 +1,5 @@
+OFFSCREEN : 0-Deer-3, 0-Vulture-1, 0-Scavenger-2
+HT_C03 : 5-Tentacle
+HT_D01 : 4-Tentacle
+HT_D02 : 3-Tentacle, 4-Tentacle, 5-Tentacle
+HT_D03 : 10-Tentacle, 6-Tentacle, 5-Tentacle, 3-Tentacle, 8-Tentacle

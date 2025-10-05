@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 4
+EffectColorA: 12
+EffectColorB: 0
+PlacedObjects: Corruption><93.07495><313.9033><32~-31, Corruption><76.60913><191.8324><41~42, Corruption><290.1036><575.8289><52~34, Corruption><718.5524><601.693><-96~26, Corruption><415.6593><565.5718><21~79, Corruption><534.0609><565.8149><-47~49, Corruption><871.3654><160.3366><-17~63, Corruption><883.2><331.9966><-28~-37, CorruptionTube><756.1542><599.8727><-246~-38, CorruptionTube><96.05029><186.0108><10~144, 
+FadePalette: 10, 0.9035645

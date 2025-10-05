@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Clouds: 0.5
+Palette: 14
+EffectColorB: 13
+Effects: Fog-1-20-20, 
+PlacedObjects: DeadTokenStalk><101.382><663.3498><9~-96, DeadTokenStalk><179.0505><658.5142><-41~-97, DeadTokenStalk><4089.925><486.8468><34~-62, DeadTokenStalk><3153.87><417.5902><-6~-36, DeadTokenStalk><3111.567><443.8309><27~-63, DeadTokenStalk><3791.828><491.6481><49~-62, DeadTokenStalk><4167.063><525.5603><-25~-102, DeadTokenStalk><3354.142><418.6412><-20~-38, DeadTokenStalk><4011.882><471.3389><-20~-36, 
+FadePalette: 0, 0.6521739, 0.6521739, 0.6521739

@@ -1,0 +1,9 @@
+CeilingDrips: 0
+WaveSpeed: 0.5888048
+WaveLength: 0.9555976
+WaveAmplitude: 8.1E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Darkness-0.2282609-25-97, WaterLights-0-20-20, WaterFluxMinLevel-0.3043478-260-93, WaterFluxMaxLevel-0.4456522-271-43, 
+FadePalette: 8, 0.6304348
+WetTerrain: OFF

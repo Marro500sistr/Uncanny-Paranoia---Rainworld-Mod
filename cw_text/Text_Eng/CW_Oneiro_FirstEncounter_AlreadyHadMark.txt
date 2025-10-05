@@ -1,0 +1,26 @@
+SPECIAL : LOCKPATHS
+SPECIAL : GRAV
+WAIT : 5
+Greetings!
+WAIT : 5
+Oh, little beast, are you alright?
+Now I can see clearly that the wound on your stomach is quite deep, let me help you.
+SPECIAL : FOODMAX
+It’s not much, but it might benefit you on your long journey i can see you've come from far away.
+The territory of Five Pebbles must be very hostile for someone like you right now
+That’s why I’m really curious about your survival skills.
+WAIT : 5
+It’s nothing personal, but...
+WAIT : 5
+I’ve been watching you for a while, little beast, and I’m amazed by your Alignment with nature.
+I see that traveling from region to region under the rain
+and with the constant despair that accompanies you must not be easy.
+WAIT : 5
+Especially passing through my structure, the damp smell must not be very pleasant.
+WAIT : 3
+I apologize for that; the natural erosion of the machinery has its consequences.
+In any case, it is worth admiring how you cope with your situation.
+WAIT : 3
+Take a rest here i see you need it, little champ!
+SPECIAL : PARTIALGRAV
+SPECIAL : UNLOCKPATHS

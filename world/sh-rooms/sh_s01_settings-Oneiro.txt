@@ -1,0 +1,4 @@
+BkgDroneVolume: 0
+PlacedObjects: BrokenShelterWaterLevel><425.1836><337.9207><, Corruption><426.4495><380.0147><-3~86, StuckDaddy><425.0707><386.4113><3~49, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><836.9306><643.1641><0.2717391><0.7652174, OMNI><SO_WAT-LilDrips.ogg><655.215><648.8031><0.1847826><1, 
+FadePalette: 12, 0.4673913

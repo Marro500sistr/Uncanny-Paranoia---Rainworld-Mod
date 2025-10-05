@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.6195652
+Clouds: 1
+Grime: 0
+Palette: 1945
+EffectColorA: 21
+EffectColorB: 21
+Effects: Darkness-0.4565217-20-20, 
+PlacedObjects: LightBeam><106.6469><166.3286><-317~461~-45~604~1003~384~166~-97~0.3999999~0~0~1~None~0~0, SpinningFan><100.4518><551.9441><100~50~1~0.9109258~0.8066685, SpinningFan><101.3428><406.7403><100~50~0.6~0.8181278~0.814402, ShelterBhvrManager><267.8109><274.3154><260.7896~3.06665~True~False~4~False~3~6~20~40~60~120~120~120~False, 
+FadePalette: 22, 0.7391304

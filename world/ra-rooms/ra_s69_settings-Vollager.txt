@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.5284158
+WaveLength: 0.9857921
+WaveAmplitude: 0.9008269
+SecondWaveLength: 0.6906702
+SecondWaveAmplitude: 1
+Clouds: 0
+Grime: 0.2629302
+Palette: 1945
+EffectColorA: 9
+EffectColorB: 10
+Effects: Contrast-0.1546649-20-20, Brightness-0.162398-24.30835-76.93333, Fog-1-286.8365-41.37778, DirtyWater-0.1314651-290.3937-121.0222, MossWater-1-289.6823-292.4, WaterViscosity-0-591.3406-364.9333, Darkness-1-30-30, 
+PlacedObjects: LightBeam><309.2297><186.5789><-288.8521~118.2222~-294.3854~573.3333~1071.615~435.9111~-60.44873~-317.1808~0.3845327~1~0~0~None~0~0, LightBeam><683.7167><67.20001><-786.1615~-47.46669~-716.2802~305.9555~1071.615~435.9111~149.4315~-70.4252~0.3845327~1~0~0~None~0~0, LightBeam><80.40007><364.4445><1314.064~-65.95561~1322.048~355.7332~931.4577~479.2888~52.67316~-206.9586~0.392266~1~0~0~None~0~0, LightSource><303.5178><364.2631><0.5050719~EffectColor1~157.2323~-0.9777832~50~86.60254~1~0~None~0~0, LightSource><512.9667><368><0.5050719~EffectColor1~157.2323~-0.9777832~108~-26.39746~1~0~None~0~0, SnowSource><735.4144><678.9001><Radial~-666.6365~-151.7333~50~86.60254~0.3504081~1, ShelterBhvrManager><336.8224><322.6756><1010.667~-87.95557~True~True~2~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><989.3665><527.2302><, ShelterBhvrHTTTutorial><733.635><539.6836><-21~127~2, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><722.1298><193.1016><0.5><1, OMNI><AM_WAT-Sea02.ogg><720.3296><173.6667><0.5><1, OMNI><AM_WAT-Sea03.ogg><721.8697><158.5898><0.5><1, 
+FadePalette: 10, 0.5824051
+WetTerrain: OFF
+MorePalette0: 0, 0

@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0.7065217
+Clouds: 0.3369565
+Grime: 0.1086956
+Palette: 15
+EffectColorA: 2
+EffectColorB: 13
+Effects: Desaturation-0.25-20-20, Darkness-0.1086956-30-30, Contrast-0.02173913-40-40, Fog-1-50-50, LightRain-0.1086956-60-60, 
+PlacedObjects: SnowSource><433.3975><356.8649><Radial~28~225~50~86.60254~1~1, SnowSource><1203.028><271.198><Radial~-48~136~50~86.60254~1~1, SnowSource><942.1369><539.3542><Radial~120~59~50~86.60254~1~1, CustomDecal><683.3094><541.0609><-5~71~71~45~57~8~-446~-452~0~1~0~lost faith~0.8804348~0~0.8804348~0~0.8804348~0~0.8804348~0, 
+FadePalette: 39, 0.3152174

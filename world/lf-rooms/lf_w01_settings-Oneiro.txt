@@ -1,0 +1,4 @@
+DangerType: Rain
+EffectColorB: 13
+Effects: LightRain-0.326087-29-112, Darkness-0.1847826-20-20, Fog-0.5-30-30, 
+FadePalette: 22, 0.7391304

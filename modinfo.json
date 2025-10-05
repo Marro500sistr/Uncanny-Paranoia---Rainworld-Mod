@@ -1,0 +1,10 @@
+﻿{
+	"id": "Uncanny_Paranoia",
+	"name": "Uncanny Paranoia",
+	"version": "3.0.0",
+	"authors": "Zofanth/SadBear",
+	"description": "a mod that adds a new 2 playable slugcat",
+	"requirements": [ "moreslugcats", "slime-cubed.slugbase", "crs", "regionkit", "pom", "watcher" ],
+	"requirements_names": [ "SlugBase", "More Slugcats Expansion", "Custom region Support", "RegionKit", "POM", "The Watcher" ],
+	"tags": [ "Custom Slugcat", "regions" ]
+}

@@ -1,0 +1,27 @@
+OFFSCREEN : 0-MirosVulture-{Ignorecycle}-4, 0-Vulture-2, 0-Scavenger-6
+CC_A07 : 3-Red-{Ignorecycle}
+CC_B14 : 2-Cyan-2, 3-Centiwing
+CC_B04 : 3-Centiwing, 4-Centiwing, 3-Snail-{Ignorecycle}-2
+CC_B05 : 3-White-{Ignorecycle}
+CC_B01 : 2-Cyan-{Ignorecycle}-2, 3-Centiwing-{Ignorecycle}
+CC_F01 : 3-Centiwing-{Ignorecycle}, 4-White-{Ignorecycle}
+CC_B08 : 3-Strawberry-{Ignorecycle}, 3-Cyan-{Ignorecycle}-2
+CC_C04 : 3-Centiwing-{Ignorecycle}-2
+CC_C08 : 3-Yellow-{Ignorecycle}-3, 4-Yellow-{Ignorecycle}-2, 5-Centiwing-{Ignorecycle}-2
+CC_C07 : 2-White-{Ignorecycle}, 3-Centiwing-{Ignorecycle}
+CC_A15 : 4-Cyan-{Ignorecycle}-2
+CC_B11 : 3-BigSpider-{Ignorecycle}-2
+CC_C11 : 4-Caramel-{Ignorecycle}
+LINEAGE : CC_C05 : 3 : Cyan-0.2, White-0.2, Red-0
+LINEAGE : CC_F01 : 3 : White-0.5, Blue-0.2, Cyan-0
+LINEAGE : CC_C11 : 3 : BigSpider-0.2, SpitterSpider-0.2, NONE-0.2, Cyan-0
+CC_SHAFT02 : 5-BigSpider-{Winter}
+CC_STRAINER01 : 2-Small Centipede-3, 3-Centipede-3
+CC_STRAINER02 : 3-Mimic-{12}
+CC_SUMP05 : 2-Mimic-{19}, 3-Mimic-{21}, 5-Centipede-3, 11-Small Centipede-2, 11-Centipede-2
+CC_OUTPUT : 10-Small Centipede-3, 11-Snail-2
+CC_SHAFT01x : 4-BigSpider-2-{Winter}, 2-Eel-{PreCycle}
+CC_SUMP01 : 5-BigSpider-{Winter}, 6-TentaclePlant
+CC_SUMP03 : 4-Mimic-{18}, 7-BigSpider-{Winter}, 8-Mimic-{14}, 12-Snail-2
+CC_SUMP04 : 3-Eel
+

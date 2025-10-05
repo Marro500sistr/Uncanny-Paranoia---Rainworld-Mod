@@ -1,0 +1,20 @@
+SU_OFFSCREEN : Miros Vulture-3, Scavenger-10
+SU_BV11 : 8-Strawberry-3-{Ignorecycle}
+LINEAGE : SU_B02 : 7 : Strawberry-0.9, Red-0
+SU_A07 : 4-Strawberry-{Ignorecycle}, 5-Strawberry-{Ignorecycle}
+LINEAGE : SU_B07 : 5 : Caramel-0.9, Red-0
+SU_C02 : Centiwing-2, Caramel
+SU_A17 : Cyan-2
+SU_B04 : Yellow-2, Yellow-3, Salamander-2
+SU_A10 : Caramel
+SU_A04 : Strawberry
+LINEAGE : SU_B09 : 4 : Centipede-0.9, redhorror-0
+SU_A20 : Centipede-3, Small Centipede-2
+SU_B05 : Caramel
+SU_A32 : Red
+SU_B08 : Caramel
+SU_A06 : Caramel
+SU_A02 : Strawberry
+SU_A31 : Strawberry-3
+SU_A40 : Strawberry
+

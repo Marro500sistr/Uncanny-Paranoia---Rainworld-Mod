@@ -1,0 +1,9 @@
+difficulties :Saint,Vollager
+priming : False
+size : 1
+minkarma : 1
+minkarmacap : 1
+radius : 2
+echosong : CC
+room : OH_A03
+defaultflip : 0

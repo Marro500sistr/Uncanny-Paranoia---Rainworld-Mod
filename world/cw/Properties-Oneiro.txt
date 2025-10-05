@@ -1,0 +1,13 @@
+earlyCycleChance: 0
+overseersSpawnChance: 0.0
+playerGuideOverseerSpawnChance: 0.0
+pupSpawnChance: 0.0
+Subregion: Chasing Wind
+Subregion: Chasing Wind (Main Processing Cortex)
+Subregion: Chasing Wind (Lymphatic Conduits)
+Subregion: Chasing Wind (Memory Conflux)
+Subregion: Chasing Wind (Inner Wall)
+Subregion: The Anchor
+corruptionEffectColor: 1.0, 0.7, 0.2
+corruptionEyeColor: 1.0, 0.7, 0.2
+Room_Attr: CW_D08: YellowLizard-Stay,

@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.6739131
+Grime: 0.2608696
+Palette: 29
+EffectColorB: 21
+Effects: LightRain-0.1521739-20-20, 
+PlacedObjects: CustomDecal><327.8737><257.0929><24~80~156~62~61~-15~-260~159~0~1~0~Abnegation Paint~0.8260869~0.6086956~0.8260869~0~0.8260869~0.423913~0.8260869~0, 
+FadePalette: 0, 0.2065217

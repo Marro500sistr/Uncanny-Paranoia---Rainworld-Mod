@@ -1,0 +1,66 @@
+{
+  "id": "Oneiro_Intro",
+  "slideshow_folder": "slugbase/slideshows/Oneiro_intro",
+  "next_process": "Game",
+  "music": {
+    "name": "Oneiro_Intro",
+    "fade_in": 40
+  },
+  "scenes": [
+    {
+      "name": "Start",
+      "fade_in_start": 2.0,
+      "fade_out_start": 8.0,
+      "images": [
+        {"name": "Dream1", "pos": [0, 0], "depth": 5.0, "shader": "Basic"}
+      ],
+      "camera_path": [ [-150, 300] ]
+    },
+    {
+      "name": "ClimbUp",
+      "fade_in_start": 10.0,
+      "fade_out_start": 16.0,
+      "images": [
+        {"name": "Dream2", "pos": [0, 0], "depth": 5.0, "shader": "Basic"}
+      ],
+      "camera_path": [ [0, 200] ]
+    },
+    {
+      "name": "BeginSleep",
+      "fade_in_start": 17.0,
+      "fade_out_start": 20.0,
+      "images": [
+        {"name": "Dream3", "pos": [0, 0], "depth": 5.0, "shader": "Basic"}
+      ],
+      "camera_path": [ [200, 250] ]
+    },
+    {
+      "name": "Sleep",
+      "fade_in_start": 21.0,
+      "fade_out_start": 24.0,
+      "images": [
+        {"name": "Dream4", "pos": [0, 0], "depth": 5.0, "shader": "Basic"}
+      ],
+      "camera_path": [ [0, 100] ]
+    },
+    {
+      "name": "PupClimbStart",
+      "fade_in_start": 25.0,
+      "fade_in_end": 25.5,
+      "fade_out_start": 26.0,
+      "images": [
+        {"name": "Dream5", "pos": [0, 0], "depth": 5.0, "shader": "Basic"}
+      ],
+      "camera_path": [ [0, 50]]
+    },
+    {
+      "name": "Black",
+      "fade_in_start": 41.0,
+      "fade_in_end": 41.0,
+      "fade_out_start": 43.0,
+      "images": [
+        {"name": "Black", "pos": [0, 0], "depth": -1.0, "shader": "Basic"}
+      ]
+    }
+  ]
+}

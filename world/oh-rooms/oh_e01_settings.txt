@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.4943153
+WaveLength: 0.972982
+WaveAmplitude: 0.00794854
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 12
+Effects: Darkness-0.8369565-20-20, Coldness-1-25-54, 
+PlacedObjects: SnowSource><1573.687><549.8219><Radial~782~-468~50~86.60254~0.4673913~1, SnowSource><1182.95><1043.001><Radial~-133~513~-275~132.6025~0.3478261~1, SnowSource><985.9434><1916.949><Radial~-693~-269~50~86.60254~0.5652174~1, SnowSource><1622.382><2228.912><Radial~-199~-378~-72~-54.39746~0.5108696~1, 

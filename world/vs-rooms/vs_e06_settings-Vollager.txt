@@ -1,0 +1,17 @@
+Template: VS_SettingsTemplate_Filter
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-43
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 1
+Palette: 20
+Effects: Coldness-1-21-78, Darkness-1-20-20, 
+PlacedObjects: DangleFruit><1025.671><1253.566><0~0~2~3, DangleFruit><1082.629><1215.909><-62~132~2~3, DeadTokenStalk><1384.444><1174.2><-22~58, DeadTokenStalk><1236.036><1197.447><16~42, DeadTokenStalk><1338.056><1204.058><-22~33, BlueToken><1304.396><1145.137><29~92~188~55~1~EelLizard~White|Yellow|Red|Artificer|Spear|Gourmand~0~0~0~0~0~0~0, 
+AmbientSounds: SPOT><AM_ENV-NatWind.ogg><862.1575><453.3733><0.423913><1><311.1575><1514.373><-84.35535><-303.3553><0><1, SPOT><AM_WIN-SubWnd.ogg><685.6711><605.6035><0.5><1><980.6938><758.5236><-397.3553><-266.3553><0><1, 
+FadePalette: 21, 0.9891304, 0.9347826, 0.8586956, 0.8043478, 0.7391304
+WetTerrain: OFF

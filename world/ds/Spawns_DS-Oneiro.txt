@@ -1,0 +1,3 @@
+OFFSCREEN : 0-KingVulture-2
+DS_GUTTER03 : 6-RedCentipede
+DS_GUTTER04 : 4-SpitterSpider

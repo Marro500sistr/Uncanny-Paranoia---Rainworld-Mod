@@ -1,0 +1,6 @@
+[MERGE]
+WaveSpeed: 0.5014288
+WaveLength: 0.9992856
+WaveAmplitude: 0.001788903
+PlacedObjects: ColouredLightSource><375.3025><367.6501><100~50~FFFFFF~223^-375~1~False~0.5~0~0.5~Always~0~100, 
+[ENDMERGE]

@@ -1,0 +1,9 @@
+SpawnOnDifficulty : (X-Saint,X-Red,Oneiro)
+priming : true
+size : 1
+minkarma : -1
+minkarmacap : 1
+radius : 4
+echosong : UNUSED
+room : HI_B13
+defaultflip : 0

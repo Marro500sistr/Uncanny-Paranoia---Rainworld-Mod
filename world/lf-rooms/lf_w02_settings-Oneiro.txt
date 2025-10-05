@@ -1,0 +1,7 @@
+DangerType: Rain
+Clouds: 0.8260869
+Grime: 0.6413044
+EffectColorB: 13
+Effects: LightRain-0.2717391-20-20, Darkness-0.1304348-30-30, Fog-0.4891304-28-88, 
+PlacedObjects: PuffBall><649.0914><241.0722><0~0~2~3, PuffBall><694.5529><235.0571><0~0~2~3, PuffBall><745.1722><228.4343><0~0~2~3, PuffBall><2030.689><231.6838><0~0~2~3, PuffBall><2067.189><228.6859><0~0~2~3, PuffBall><2110.654><228.9257><0~0~2~3, 
+FadePalette: 22, 0.6630435, 0.5978261, 0.5543478

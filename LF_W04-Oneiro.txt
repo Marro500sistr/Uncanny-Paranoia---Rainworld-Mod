@@ -1,0 +1,4 @@
+0-LF_W04-Oneiro
+Same format as pearl text<LINE>Including line breaks.
+Line breaks will be in the same black box,
+While different lines will be in separated boxes.

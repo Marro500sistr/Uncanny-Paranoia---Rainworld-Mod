@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.5108696
+Palette: 14
+EffectColorA: 13
+EffectColorB: 21
+Effects: Fog-1-20-20, Desaturation-0.1521739-30-30, LightRain-0.25-40-40, 
+PlacedObjects: DandelionPeach><513.9495><1336.014><-292~-10~2~3, DandelionPeach><1061.592><1127.878><-252~-153~2~3, DandelionPeach><468.9017><1340.13><-306~96~2~3, 
+FadePalette: 3, 0.3043478, 0.3043478, 0.3586957, 0.3586957

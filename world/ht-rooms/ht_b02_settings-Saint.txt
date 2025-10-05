@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.4119542
+WaveLength: 0.9559771
+WaveAmplitude: 0.005514419
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5
+Palette: 14
+EffectColorA: 13
+EffectColorB: 13
+Effects: Fog-0.6086956-20-20, Coldness-1-30-30, 
+PlacedObjects: DandelionPeach><1128.064><1261.939><-127~206~2~3, DandelionPeach><1160.829><1259.854><-26~95~2~3, DandelionPeach><1152.644><932.9198><0~74~2~3, SnowSource><762.8755><1377.156><Radial~640~-528~-450~5.602539~1~1, SnowSource><753.3601><596.1429><Radial~-720~-564~73~-128.3975~1~1, 
+FadePalette: 0, 0.6086956, 0.6086956
+WetTerrain: OFF

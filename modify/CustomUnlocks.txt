@@ -1,0 +1,3 @@
+[ADD]HT1 : Destructive_Thoughts
+[ADD]OH1 : Iconoclasm
+[ADD]OH2 : Asterism

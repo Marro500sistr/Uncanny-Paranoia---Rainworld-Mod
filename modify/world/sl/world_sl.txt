@@ -1,0 +1,49 @@
+[MERGE]
+CONDITIONAL LINKS
+//unlink shaded rooms on saint
+Vollager : SL_B02 : SL_A02 : DISCONNECTED
+Vollager : SL_B02 : SL_C11 : DISCONNECTED
+Vollager : SL_B02 : SL_A14 : DISCONNECTED
+//link CL rooms on saint
+Vollager : SL_B02SAINT : 1 : SL_A02
+Vollager : SL_B02SAINT : 2 : SL_A14
+Vollager : SL_A02 : SL_B02 : SL_B02SAINT
+Vollager : SL_A14 : SL_B02 : SL_B02SAINT
+//saint's broken grates
+Vollager : SL_C06 : SL_S04 : DISCONNECTED
+Vollager : SL_C06 : SL_A03 : DISCONNECTED
+Vollager : SL_C06 : SL_A06 : DISCONNECTED
+Vollager : SL_C06SAINT : 1 : SL_S04
+Vollager : SL_C06SAINT : 2 : SL_A03
+Vollager : SL_C06SAINT : 3 : SL_A06
+Vollager : SL_S04 : SL_C06 : SL_C06SAINT
+Vollager : SL_A03 : SL_C06 : SL_C06SAINT
+Vollager : SL_A06 : SL_C06 : SL_C06SAINT
+
+//Only show on saint
+Vollager : EXCLUSIVEROOM : GATE_SL_CL
+Vollager : EXCLUSIVEROOM : SL_B02SAINT
+Vollager : EXCLUSIVEROOM : SL_C16
+Vollager : EXCLUSIVEROOM : SL_I02
+Vollager : EXCLUSIVEROOM : SL_SCRUSHED
+Vollager : EXCLUSIVEROOM : SL_B10
+Vollager : EXCLUSIVEROOM : SL_B11
+Vollager : EXCLUSIVEROOM : SL_C06SAINT
+//Hidden on saint
+Vollager : HIDEROOM : SL_B02
+Vollager : HIDEROOM : SL_C11
+Vollager : HIDEROOM : SL_S02
+Vollager : HIDEROOM : GATE_SH_SL
+Vollager : HIDEROOM : SL_C06
+Vollager : HIDEROOM : GATE_UW_SL
+Vollager : HIDEROOM : SL_BRIDGEEND
+Vollager : HIDEROOM : SL_S13
+Vollager : HIDEROOM : SL_EDGE01
+Vollager : HIDEROOM : SL_EDGE02
+Vollager : HIDEROOM : SL_BRIDGE01
+
+Vollager : SL_D05 : SL_A06 : DISCONNECTED
+Vollager : SL_A06 : SL_D05 : DISCONNECTED
+
+END CONDITIONAL LINKS
+[ENDMERGE]

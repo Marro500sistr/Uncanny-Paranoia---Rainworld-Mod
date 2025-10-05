@@ -1,0 +1,11 @@
+DangerType: Blizzard
+WaveSpeed: 0.2338474
+WaveLength: 0.8669237
+WaveAmplitude: 6.723689E-10
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Grime: 0.6413044
+EffectColorB: 13
+Effects: Darkness-0.75-85-57, 
+PlacedObjects: PuffBall><649.0914><241.0722><0~0~2~3, PuffBall><694.5529><235.0571><281~262~2~3, PuffBall><745.1722><228.4343><17~280~2~3, PuffBall><2030.689><231.6838><0~0~2~3, PuffBall><2067.189><228.6859><0~0~2~3, PuffBall><2110.654><228.9257><0~0~2~3, SnowSource><303.64><505.6429><Radial~1020~-298~50~86.60254~1~1, SnowSource><1717.339><620.8815><Radial~1078~-440~50~86.60254~0.6956522~1, SnowSource><3099.657><598.1232><Radial~1088~-508~50~86.60254~1~1, 

@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Clouds: 0.2934783
+Palette: 0
+EffectColorA: 13
+EffectColorB: 13
+Effects: Fog-1-20-20, 
+PlacedObjects: RedToken><1037.193><296.802><37~49~-85~145~0~HT~~0~0~1~0~0~0~1~0~0~0~1~0, 
+FadePalette: 3, 0.4565217, 0.4565217, 0.5, 0.5543478, 0.6086956

@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+BkgDroneVolume: 0
+Palette: 5
+PlacedObjects: BrokenShelterWaterLevel><468.0244><253.1985><, Corruption><469.4395><276.1859><8~53, StuckDaddy><470.2217><276.802><6~23, 
+AmbientSounds: SPOT><Basic Mech.ogg><720.6788><158.4104><0.1956522><1><472.6788><460.4104><-41.35535><-46.35535><0><0.4478262, 
+FadePalette: 10, 0.9130435

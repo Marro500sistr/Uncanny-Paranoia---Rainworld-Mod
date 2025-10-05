@@ -1,0 +1,5 @@
+Clouds: 0.6413044
+EffectColorB: 13
+Effects: Fog-0.6630435-20-20, Darkness-0.2065217-221-53, LightRain-0.326087-142-100, 
+PlacedObjects: DeadTokenStalk><273.3><500.2542><16~-91, DeadTokenStalk><385.1999><452.2565><-24~-47, DeadTokenStalk><1228.655><580.6267><28~-44, DeadTokenStalk><1332.45><618.2578><-32~-83, DeadTokenStalk><968.8036><475.9624><17~-73, DeadTokenStalk><662.3893><448.3565><-27~-86, DeadTokenStalk><161.692><583.4438><-17~-102, DeadTokenStalk><223.6989><547.7715><-67~-80, DeadTokenStalk><402.635><728.1636><-50~-38, 
+FadePalette: 22, 0.3043478

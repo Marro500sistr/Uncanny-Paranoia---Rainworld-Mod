@@ -1,0 +1,6 @@
+Template: CC_SettingsTemplate_Gutter
+DangerType: Rain
+RainIntensity: 0
+RumbleIntensity: 0
+PlacedObjects: BrokenShelterWaterLevel><460.1852><238.8108><, StuckDaddy><463.4413><324.4412><9~46, Corruption><462.3099><322.4379><0~100, 
+FadePalette: 22, 0.6847826

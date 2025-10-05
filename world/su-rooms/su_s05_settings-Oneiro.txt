@@ -1,0 +1,4 @@
+Template: SU_SettingsTemplate_Inside
+Effects: Desaturation-0.3043478-17-77, Darkness-0.7934783-30-30, 
+PlacedObjects: Corruption><276.1004><283.1328><2~91, StuckDaddy><279.3978><280.3281><23~49, 
+FadePalette: 5, 1

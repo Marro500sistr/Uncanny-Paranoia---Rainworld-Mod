@@ -1,0 +1,45 @@
+[MERGE]
+ROOMS
+
+GATE_LF_HT : HT_A01, DISCONNECTED : GATE
+HT_A01 : GATE_LF_HT, HT_A02
+HT_A02 : HT_C01, HT_A01
+HT_C01 : HT_A02, HT_C02
+HT_C02 : HT_C01, HT_C03
+HT_C03 : HT_C02, HT_D01
+HT_D01 : HT_C03, HT_D02, HT_S01, DISCONNECTED, DISCONNECTED
+HT_S01 : HT_D01 : SHELTER
+HT_D02 : HT_D03, HT_D01, HT_D06
+HT_D03 : HT_G01, HT_D02
+HT_G01 : HT_C04, HT_D03
+HT_C04 : HT_E02, HT_G01
+HT_E02 : HT_B02, HT_C04
+HT_B02 : HT_D04, HT_E02
+HT_D04 : HT_A08, HT_B02
+HT_A08 : HT_D05, HT_S02, HT_D04
+HT_S02 : HT_A08 : SHELTER
+HT_D05 : HT_E03, HT_A08
+HT_E03 : DISCONNECTED, HT_O01, HT_S03, HT_D05
+HT_O01 : HT_E03
+HT_S03 : HT_E03 : SHELTER
+HT_D06 : HT_TN01, HT_A03, HT_D02, DISCONNECTED
+HT_A03 : HT_D06 : SWARMROOM
+HT_TN01 : HT_D06
+
+END ROOMS
+CREATURES
+(X-Spear,Saint)OFFSCREEN : 0-Deer-3, 0-Vulture-1, 0-Scavenger-2
+(Spear)OFFSCREEN : 0-Deer-3-{Ignorecycle}, 0-Vulture-1-{Ignorecycle}, 0-Scavenger-2-{Ignorecycle}
+(Saint)OFFSCREEN : 0-Deer-3-{Ignorecycle}, 0-MirosVulture-1-{Ignorecycle}, 0-Scavenger-2-{Ignorecycle}
+(Rivulet,Red)HT_C03 : 5-Tentacle
+(Spear)HT_C03 : 5-White-{Ignorecycle}
+(X-Spear,Rivulet,Red,Saint)LINEAGE : HT_C03 : 5 : Mimic-{18}-0.8, Tentacle-0
+(X-Spear,Rivulet,Red,Saint)LINEAGE : HT_D01 : 4 : Mimic-{18}-0.8, Tentacle-0
+(Rivulet,Red)HT_D01 : 4-Tentacle
+(Rivulet,Red)HT_D02 : 3-Tentacle, 4-Tentacle
+(X-Spear,Rivulet,Red,Saint)LINEAGE : HT_D02 : 3 : Mimic-{18}-0.8, Tentacle-0
+(Rivulet,Red)HT_D03 : 10-Tentacle, 6-Tentacle
+(X-Spear,Rivulet,Red,Saint)LINEAGE : HT_D03 : 10 : Mimic-{18}-0.8, Tentacle-0
+(X-Spear,Rivulet,Red,Saint)HT_D03 : 6-Mimic
+END CREATURES
+[ENDMERGE]

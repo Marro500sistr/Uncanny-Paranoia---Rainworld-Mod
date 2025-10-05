@@ -1,0 +1,11 @@
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.6419755
+WaveLength: 0.6790123
+WaveAmplitude: 0.04999999
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.6521739
+EffectColorB: 13
+Effects: Fog-0.8695652-2-89, 
+WetTerrain: OFF

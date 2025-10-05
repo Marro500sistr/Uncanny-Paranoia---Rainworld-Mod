@@ -1,0 +1,3 @@
+Template: NONE
+Palette: 14
+FadePalette: 3, 0.8586956

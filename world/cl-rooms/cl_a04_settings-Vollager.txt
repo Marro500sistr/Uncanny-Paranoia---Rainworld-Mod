@@ -1,0 +1,17 @@
+Template: CL_SettingsTemplate_DarkSun
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.25
+EffectColorA: 2
+EffectColorB: 6
+Effects: Coldness-1-21-79, Dustpuffs-1-20-132, Darkness-1-30-30, 
+PlacedObjects: SnowSource><650.9429><265.6971><Radial~40~163~83~-179.3975~0.7282609~1, DangleFruit><772.9184><463.1079><0~0~2~3, DangleFruit><811.654><434.8246><-80~-47~2~3, DangleFruit><468.5635><405.0724><0~0~2~3, DangleFruit><452.8196><469.8125><338~-91~2~3, DangleFruit><331.8284><439.6472><0~0~2~3, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><867.7319><642.4492><0.1086956><1, OMNI><MSC-StructureStrain.ogg><875.7568><562.9499><0.3369565><0.1782609, SPOT><AM_ENV-NatWind.ogg><693.933><599.0806><0.4021739><1><563.933><717.0806><-5.355347><-54.35535><0><0.7413045, 
+FadePalette: 0, 0.3043478
+WetTerrain: OFF

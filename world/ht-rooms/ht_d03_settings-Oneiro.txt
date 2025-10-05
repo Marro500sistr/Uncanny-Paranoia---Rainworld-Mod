@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.8043478
+Palette: 14
+EffectColorB: 13
+Effects: Fog-0.8586956-20-20, Darkness-0.2065217-22-62, LightRain-0.2065217-28-130, 
+PlacedObjects: DeadTokenStalk><5844.887><666.0847><14~-58, DeadTokenStalk><6379.847><696.3786><-33~-17, DeadTokenStalk><6103.812><725.1829><31~-59, DeadTokenStalk><5061.569><483.8345><-20~-77, DeadTokenStalk><5135.86><477.5832><33~-73, DeadTokenStalk><5513.724><503.9482><61~-86, DeadTokenStalk><5555.95><606.736><36~-63, DeadTokenStalk><3255.577><359.8503><-8~-81, DeadTokenStalk><3615.552><388.7798><28~-59, DeadTokenStalk><3973.849><457.9235><-30~-126, DeadTokenStalk><3630.832><505.9325><58~-88, DeadTokenStalk><3901.764><515.8005><-17~-62, DeadTokenStalk><1577.221><197.4479><22~-64, DeadTokenStalk><1877.312><197.0598><-27~-88, DeadTokenStalk><2797.298><200.0559><43~-97, DeadTokenStalk><2858.08><280.3553><16~-66, DeadTokenStalk><1467.815><278.675><-50~-38, DeadTokenStalk><1381.171><346.6457><17~-87, DeadTokenStalk><246.8712><542.903><-43~-42, DeadTokenStalk><204.8804><601.9103><-42~-71, DeadTokenStalk><285.3063><423.2999><-71~-56, DeadTokenStalk><757.214><337.1967><29~-56, 
+FadePalette: 22, 0.1847826, 0.1847826, 0.1630435, 0.1630435, 0.1521739

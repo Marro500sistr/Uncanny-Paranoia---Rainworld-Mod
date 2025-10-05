@@ -1,0 +1,49 @@
+GATE_LF_HT: -429><307.5><0><-70><0><
+HT_A01: -234><318><0><-86><0><
+HT_A02: 3><318><0><-86><0><
+HT_C01: 459><327><0><-86><0><Hidden Conservatory
+HT_C02: 1122><327><0><-86><0><Hidden Conservatory
+HT_C03: 1782><328.5><0><-86><0><Hidden Conservatory
+HT_D01: 2649><328.5><0><-86><0><Hidden Conservatory
+HT_S01: 2397><156><0><-70><0><
+HT_D02: 3750><342><0><-86><0><Hidden Conservatory
+HT_D03: 4845><354><0><-86><0><Hidden Conservatory
+HT_G01: 5607><516><0><-252><0><Hidden Conservatory
+HT_C04: 5925><691.5><0><-250><0><
+HT_E02: 5742><1192.5><0><-418><0><Hidden Conservatory
+HT_B02: 6126><1590><0><-168><0><Hidden Conservatory
+HT_D04: 5628><2041.5><0><-166><0><Hidden Conservatory
+HT_A08: 6180><2355><0><-86><0><Hidden Conservatory
+HT_S02: 5961><2482.5><0><-86><0><
+HT_D05: 5598><2718><0><-166><0><Hidden Conservatory
+HT_E03: 5691><3174><0><-364><0><Hidden Conservatory
+HT_O01: 5979><3402><0><-86><0><
+HT_S03: 5988><3211.5><0><-86><0><
+HT_D06: 4005><61.5><0><-86><0><Hidden Conservatory
+HT_A03: 3438><64.5><0><-86><0><Hidden Conservatory
+HT_TN01: 3981><-100.5><0><-86><0><
+HT_O02: 3612><-1863><0><-86><0><
+OffScreenDen_ht: 102><591><0><-20><0><
+Connection: GATE_LF_HT,HT_A01,40,23,6,23,0,2
+Connection: HT_A01,HT_A02,64,23,3,6,0,2
+Connection: HT_A02,HT_C01,68,37,5,34,0,2
+Connection: HT_C01,HT_C02,190,6,23,6,3,3
+Connection: HT_C02,HT_C03,176,6,15,10,3,3
+Connection: HT_C03,HT_D01,180,8,27,7,3,3
+Connection: HT_D01,HT_D02,321,7,29,9,3,3
+Connection: HT_D01,HT_S01,94,7,22,18,3,0
+Connection: HT_D02,HT_D03,350,17,18,13,3,3
+Connection: HT_D02,HT_D06,128,9,30,8,3,3
+Connection: HT_D03,HT_G01,349,25,11,8,3,3
+Connection: HT_G01,HT_C04,135,21,16,13,0,2
+Connection: HT_C04,HT_E02,16,105,58,13,2,3
+Connection: HT_E02,HT_B02,63,164,22,17,0,3
+Connection: HT_B02,HT_D04,10,72,136,15,2,0
+Connection: HT_D04,HT_A08,107,69,3,14,0,2
+Connection: HT_A08,HT_D05,14,39,124,17,2,0
+Connection: HT_A08,HT_S02,3,22,37,15,2,3
+Connection: HT_D05,HT_E03,121,73,54,35,0,0
+Connection: HT_E03,HT_O01,54,159,7,15,0,2
+Connection: HT_E03,HT_S03,54,104,39,22,0,2
+Connection: HT_D06,HT_TN01,116,14,19,19,0,2
+Connection: HT_D06,HT_A03,14,9,58,7,3,3

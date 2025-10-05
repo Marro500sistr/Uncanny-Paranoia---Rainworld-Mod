@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.4901446
+WaveLength: 0.9484972
+WaveAmplitude: 0.01289496
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 12
+Effects: Darkness-0.9130435-20-20, 
+PlacedObjects: CosmeticSlimeMold><902.7023><393.1942><0~100, CosmeticSlimeMold><863.4246><536.5977><0~100, SlimeMold><934.308><415.194><181~3~2~3, SlimeMold><924.5388><521.4462><175.0001~4~2~3, SlimeMold><934.3864><439.4146><268~52~2~3, SlimeMold><935.6833><476.8298><93.99997~133~2~3, SlimeMold><841.6351><401.8975><229~-101~2~3, SeedCob><612.6211><446.0908><-7~81~7~10, SlimeMold><428.2143><433.8032><89~7~2~3, CosmeticSlimeMold><419.315><474.4391><70~60, SlimeMold><461.6766><365.564><52~13~2~3, 

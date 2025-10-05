@@ -1,0 +1,24 @@
+[MERGE]
+CONDITIONAL LINKS
+//unlink path
+Vollager : HI_D01 : HI_B14 : DISCONNECTED
+
+//link rooms
+Vollager : HI_B14 : HI_D01 : HI_D01_VOL
+
+//link rooms
+Vollager : HI_D01_VOL : 1 : HI_B14
+
+Vollager : EXCLUSIVEROOM : HI_D01_VOL
+
+Vollager : HIDEROOM : HI_D01
+Vollager : HIDEROOM : HI_C13
+Vollager : HIDEROOM : HI_S06
+Vollager : HIDEROOM : GATE_HI_SH
+
+
+END CONDITIONAL LINKS
+ROOMS
+HI_D01_VOL : DISCONNECTED
+
+END ROOMS

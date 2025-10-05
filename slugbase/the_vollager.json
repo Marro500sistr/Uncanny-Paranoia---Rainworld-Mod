@@ -1,0 +1,71 @@
+{
+	"id": "Vollager",
+	"name": "The Voyager",
+	"description": "Irascible at the uncertainty surrounding his future<LINE>this little beast plunges into the icy darkness to fulfill a promise.",
+	"features": {
+		"color": "1A1A1A",
+		"auto_grab_batflies": false,
+		"weight": [ 1, 0.8 ],
+		"loudness": 0.8,
+		"lung_capacity": 1,
+		"diet": {
+			"base": "Red",
+			"corpses": 0.5,
+			"meat": 0.25,
+			"plants": -2,
+			"overrides": {
+				"Scavenger": 1.25,
+				"DangleFruit": -2,
+				"SlimeMold": 1,
+				"JellyFish": 2,
+				"Seed": 0.25
+			}
+		},
+		"can_maul": true,
+		"maul_blacklist": [ "TubeWorm" ],
+		"maul_damage": 1.8,
+		"karma": 0,
+		"karma_cap": 0,
+		"start_room": [ "CC_A10", "VS_BASEMENT0" ],
+		"has_dreams": false,
+		"cycle_length_min": 84,
+		"cycle_length_max": 86,
+		"food_min": 5,
+		"food_max": 8,
+		"the_mark": true,
+		"tunnel_speed": [ 1.9, 0.4 ],
+		"climb_speed": [ 1.9, 0.4 ],
+		"walk_speed": [ 1.8, 0.4 ],
+		"throw_skill": [ 1.4, 1 ],
+		"crouch_stealth": 0.7,
+		"back_spear": true,
+
+		"alignments": {
+			"Lizards": {
+				"like": -1,
+				"strength": 0.2
+			},
+			"Scavengers": {
+				"like": -0.8,
+				"strength": 0.2
+			}
+		},
+
+		"world_state": [ "Vollager", "Saint" ],
+		"expedition_enabled": true,
+		"expedition_description": "First line of description.<LINE>Second line of description.",
+
+		"story_regions": [ "SU", "HI", "UG", "GW", "SL", "CL", "-SS", "-RM", "CC", "SI", "LF", "SB", "-MS", "-DS", "-HR" ],
+		"intro_slideshow": "Vollager_Intro",
+		"outro_slideshow": "ll_Outro",
+
+
+
+
+		"select_menu_scene": "Slugcat_vollager",
+		"select_menu_scene_ascended": "ghost_vollager",
+		"sleep_scene": "sleep_vollager"
+
+
+	}
+}

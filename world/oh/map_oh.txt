@@ -1,0 +1,40 @@
+GATE_LF_HT: 264><-57><0><-70><0><
+GATE_HT_SU: 7032><1026><0><-70><0><
+OH_P02: 6591><1146><0><-84><0><Unkept Promises
+OH_A01: 465><-45><0><-86><0><
+OH_D01: 1029><-7.5><0><-86><0><Unkept Promises
+OH_C02: 1785><-7.5><0><-86><0><Unkept Promises
+OH_C03: 2436><-6><0><-86><0><Unkept Promises
+OH_D04: 3300><4.5><0><-86><0><Unkept Promises
+OH_T01: 3306><-141><0><-86><0><
+OH_H02: 4371><72><0><-166><0><Unkept Promises
+OH_D05: 5004><384><0><-242><0><Unkept Promises
+OH_S01: 5319><502.5><0><-86><0><
+OH_E01: 5100><748.5><0><-242><0><Unkept Promises
+OH_E02: 5337><1111.5><0><-242><0><Unkept Promises
+OH_E03: 5694><1476><0><-242><0><Unkept Promises
+OH_O01: 6003><1722><0><-166><0><Unkept Promises
+OH_S02: 5793><1792.5><0><-86><0><
+OH_E04: 5934><2092.5><0><-314><0><Unkept Promises
+OH_A03: 5814><2391><0><-86><0><
+OH_P01: 6039><1338><0><-320><0><
+OffScreenDen_oh: 1191><228><0><-20><0><
+Connection: GATE_LF_HT,OH_A01,40,23,6,23,0,2
+Connection: GATE_HT_SU,OH_P02,2,11,264,5,2,3
+Connection: OH_P02,OH_P01,21,17,68,13,1,0
+Connection: OH_A01,OH_D01,64,23,10,12,0,2
+Connection: OH_D01,OH_C02,260,6,30,23,3,3
+Connection: OH_C02,OH_C03,176,6,32,20,3,3
+Connection: OH_C03,OH_D04,194,25,33,19,0,3
+Connection: OH_D04,OH_T01,165,16,19,19,0,2
+Connection: OH_D04,OH_H02,321,12,25,24,0,3
+Connection: OH_H02,OH_D05,348,67,38,26,0,3
+Connection: OH_D05,OH_E01,121,118,89,16,0,0
+Connection: OH_D05,OH_S01,136,96,37,15,0,3
+Connection: OH_E01,OH_E02,87,117,16,7,0,0
+Connection: OH_E02,OH_E03,123,108,15,11,0,0
+Connection: OH_E03,OH_O01,122,116,8,15,3,2
+Connection: OH_O01,OH_E04,14,81,23,8,2,2
+Connection: OH_O01,OH_S02,29,35,36,23,2,0
+Connection: OH_E04,OH_A03,26,146,54,10,2,3
+Connection: OH_A03,OH_P01,68,15,5,156,0,1
