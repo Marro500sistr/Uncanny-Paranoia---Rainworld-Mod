@@ -1,0 +1,22 @@
+OFFSCREEN : 0-Scavenger-3, 0-MirosVulture-3, 0-KingVulture-2
+HI_B06 : 4-SpitterSpider, 3-LanternMouse-10
+HI_C04 : 5-LanternMouse-4, 7-SpitterSpider
+HI_C03 : 3-SpitterSpider
+HI_A16 : 4-SpitterSpider-2
+HI_A27 : 1-Scavenger-3
+HI_A25 : 2-LanternMouse-6
+HI_A18 : 2-SpitterSpider-2, 3-MotherSpider
+HI_C05 : 2-MotherSpider, 4-MotherSpider
+HI_A06 : 2-SpitterSpider-2
+HI_A19 : 4-SpitterSpider-2
+HI_C02 : 5-DropBug-2, 6-DropBug-2
+HI_C01 : 3-DropBug-2, 4-DropBug-2, 5-SpitterSpider-2
+HI_B03 : 2-Scavenger
+HI_C11 : 3-Spider-2
+HI_B09 : 3-Scavenger
+HI_B07 : 3-Yeek
+HI_B14 : 4-SpitterSpider-2
+HI_D01 : 2-LanternMouse-4
+HI_B15 : 2-Centipede-2, 3-Centipede-2
+HI_C15 : 3-Caramel-3, 4-Caramel-3, 5-LanternMouse-6,
+HI_A28 : 3-LanternMouse-4

@@ -9,7 +9,7 @@ SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 1
 Palette: 0
-Effects: Coldness-1-20-20, Darkness-1-30-30, 
+Effects: Coldness-1-20-20, Darkness-1-30-30, VoidMelt-0.3152174-40-40, 
 AmbientSounds: SPOT><waterGurgleLOOP1.wav><767.1993><438.2336><0.4891304><1><3018.199><643.2335><-246.3553><-120.3553><0><0.6108697, 
-FadePalette: 8, 0.4456522, 0.4456522, 0.4456522
+FadePalette: 8, 0.9021739, 0.8913044, 0.8695652
 WetTerrain: OFF

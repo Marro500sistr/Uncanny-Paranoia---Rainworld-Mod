@@ -9,6 +9,6 @@ SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 1
 Palette: 0
-Effects: Coldness-1-20-20, Darkness-1-30-30, 
-FadePalette: 8, 0.5760869, 0.6304348
+Effects: Coldness-1-20-20, Darkness-1-30-30, VoidMelt-0.3152174-40-40, 
+FadePalette: 8, 0.9347826, 0.9130435
 WetTerrain: OFF

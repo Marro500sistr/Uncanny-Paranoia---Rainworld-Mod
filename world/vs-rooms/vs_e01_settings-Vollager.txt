@@ -1,4 +1,4 @@
-Template: VS_SettingsTemplate_Sewer
+Template: vs_settingstemplate_sewer
 DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0
@@ -10,6 +10,6 @@ SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Grime: 0.1630435
 Palette: 0
-Effects: Coldness-1-21-81, Darkness-1-20-20, 
-FadePalette: 17, 0.8586956, 0.8478261, 0.8260869, 0.8152174, 0.7934783
+Effects: Coldness-1-21-81, Darkness-1-20-20, VoidMelt-0.3152174-30-30, 
+FadePalette: 17, 0.9782609, 0.9565217, 0.9565217, 0.9673913, 0.9673913
 WetTerrain: OFF

@@ -11,10 +11,15 @@ Vollager : HI_D01_VOL : 1 : HI_B14
 
 Vollager : EXCLUSIVEROOM : HI_D01_VOL
 
+Vollager : HI_A28 : HI_C15 : DISCONNECTED
+Vollager : HI_C15 : HI_A28 : DISCONNECTED
+
 Vollager : HIDEROOM : HI_D01
 Vollager : HIDEROOM : HI_C13
 Vollager : HIDEROOM : HI_S06
 Vollager : HIDEROOM : GATE_HI_SH
+Vollager : HIDEROOM : HI_A28
+
 
 
 END CONDITIONAL LINKS

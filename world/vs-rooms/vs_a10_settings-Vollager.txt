@@ -1,4 +1,4 @@
-Template: VS_SettingsTemplate_Sewer
+Template: vs_settingstemplate_sewer
 DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
@@ -10,8 +10,8 @@ SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Grime: 0.2717391
 Palette: 21
-Effects: HeatWave-0.1630435-20-20, Darkness-1-30-30, 
+Effects: HeatWave-0.1630435-20-20, Darkness-1-30-30, VoidMelt-0.3043478-40-40, 
 PlacedObjects: DangleFruit><366.9978><465.3><0~0~2~3, DangleFruit><345.814><514.4264><0~0~2~3, 
 AmbientSounds: OMNI><waterGurgleLOOP1.wav><725.6159><567.8984><0.3586957><1, 
-FadePalette: 10, 0.5326087
+FadePalette: 10, 0.9239131
 WetTerrain: OFF

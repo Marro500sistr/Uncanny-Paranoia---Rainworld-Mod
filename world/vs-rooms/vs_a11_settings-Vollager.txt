@@ -1,4 +1,4 @@
-Template: VS_SettingsTemplate_Sewer
+Template: vs_settingstemplate_sewer
 DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0
@@ -8,7 +8,8 @@ WaveLength: 1
 WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-EffectColorA: 2
-Effects: Coldness-1-20-20, Darkness-1-30-30, 
-FadePalette: 10, 0.5
+EffectColorA: 14
+EffectColorB: 0
+Effects: Coldness-1-20-20, Darkness-1-30-30, VoidMelt-0.3152174-40-40, 
+FadePalette: 10, 0.9130435
 WetTerrain: OFF
